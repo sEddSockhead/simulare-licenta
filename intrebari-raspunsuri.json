@@ -477,8 +477,8 @@
     "options": [
       "a)  1511   =   7812   600",
       "b)  6814   =   397    600",
-	  "b)  6814   =   397    600",
-      "c)  6583   =   2813   600"
+      "c)  6583   =   2813    600",
+      "d)  212   =   1513   300"
     ],
     "answer": "c",
     "category": "CONTABILITATE FINANCIARA"
@@ -2304,10 +2304,10 @@
   {
     "question": "În data de 31 ianuarie se achiziționează combustibil la prețul de achiziție de 200 lei, TVA 19%. Se achită cu card de debit. Alegeți înregistrarea la data de 31.01.",
     "options": [
-      "a)% 6022 4426 Și 401 =   = 401   5121 238 200 38 238",
-      "b) % 6022 4426 Și 401 =   = 401   5125 238 200 38 238",
-      "c) % 6022 4426 Și 401 =   = 401   473 238 200 38 238",
-      "d) % 6022 4427 Și 401 =   = 401   5125 238 200 38 238"
+      "a) % = 401 238 <br> 6022 200 <br> 4426 38 <br> si 401 = 5121 238",
+      "b) % = 401 238 <br> 6022 200 <br> 4426 38 <br> si 401 = 5125 238",
+      "c) % = 401 238 <br> 6022 200 <br> 4426 38 <br> si 401 = 473 238",
+      "d) % = 401 238 <br> 6022 200 <br> 4427 38 <br> si 401 = 5125 238"
     ],
     "answer": "b",
     "category": "CONTABILITATE FINANCIARA"
@@ -2478,9 +2478,8 @@
     "category": "BAZE DE DATE"
   },
   {
-    "question": "In  bazele  de  date  ACCESS  obiectele  care  permit  afisarea  (tiparire",
+    "question": "In  bazele  de  date  ACCESS  obiectele  care  permit  afisarea  (tiparirea) rezultatelor prelucrarii datelor in format de editare se numesc: ",
     "options": [
-      "a)rezultatelor prelucrarii datelor in format de editare se numesc:",
       "a) Tables",
       "b) Queries",
       "c) Forms",
@@ -3445,7 +3444,7 @@
       "a)Cheia primară poate avea valoarea NULL.",
       "b) Valoarea pe care o poate lua o cheie primară nu trebuie să se modifice.",
       "c) Dimensiunea câmpului cheie primară trebuie să fie cât mai redusă.",
-      "d) d) Atributele care compun cheia primară nu pot să ia valoarea NULL."
+      "d) Atributele care compun cheia primară nu pot să ia valoarea NULL."
     ],
     "answer": "a",
     "category": "SISTEME INFORMATICE DE GESTIUNE"
