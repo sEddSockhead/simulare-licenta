@@ -934,17 +934,6 @@
     "answer": "d",
     "category": "CONTABILITATE FINANCIARA"
   },
-   {
-    "question": "În cursul anului N, un client intentează proces firmei X solicitând suma de 7.000 lei despăgubire pentru un serviciu de care nu este mulțumit. Pentru a acoperi eventuala datorie viitoare, firma X constituie provizion. În luna februarie, N+1 clientul majorează pretențiile la 8.500 lei. În situațiile financiare la 31.12.N ale firmei X, aprobate la data de 15 mai, N + 1 provizionul pentru litigii va avea valoarea de:",
-    "options": [
-	  "a) 7.000 lei",
-	  "b) 8.500 lei",
-	  "c) 1.500 lei",
-	  "d) 15.500 lei"
-    ],
-    "answer": "b",
-    "category": "CONTABILITATE FINANCIARA"
-  },
   {
     "question": "Un provizion va fi recunoscut în contabilitate în cazurile în care: <br> A. o societate are o obligaţie curentă (legală sau implicită) generată de un eveniment anterior; <br> B. o societate are o obligaţie curentă (legală sau implicită) generată de un eveniment curent; <br> C. este probabil ca o ieşire de resurse care să afecteze beneficiile economice să fie necesară pentru a onora obligaţia respectivă; <br> D. este probabil ca o intrare de resurse care să afecteze beneficiile economice să fie necesară pentru a onora obligaţia respectivă; <br> E. nu este posibilă estimarea valorii obligaţiei; <br> F. poate fi realizată o bună estimare a valorii obligaţiei.",
     "options": [
@@ -1308,17 +1297,6 @@
 	  "d) împrumuturi acordate pentru o perioadă ce depășește 12 luni de la data bilanțului"
     ],
     "answer": "c",
-    "category": "CONTABILITATE FINANCIARA"
-  },
-  {
-    "question": "La data de 01.01.N se importă un echipament în valoare de 45.000 lei, taxe vamale 450 lei, reducere comercială primită de la furnizor 200 lei. În vederea achiziţiei, societatea a suportat următoarele costuri suplimentare: costuri de livrare 360 lei, costuri de instalare 900 lei, costuri generale de administraţie 6.000 lei, cheltuieli cu reclama 2.000 lei. Pentru a  aduce  echipamentul  în  condiţiile  de  funcţionare  s-au  suportat  costuri  de  4.000  lei. Costurile de deschidere a noului echipament au fost de 2.500 lei, costurile de testare a funcţionării  corecte a activului, de 1.700 lei, iar încasările nete provenite din vânzarea cozonacilor produși la testarea echipamentului, de 350 lei. În primele 4 luni, societatea s-a hotărât să introducă un nou sortiment de cozonaci, costurile fiind de 1.000 lei. Costul de achiziție al echipamentului este de:",
-    "options": [
-      "a)52.060 lei",
-      "b) 51.860 lei",
-      "c) 52.210 lei",
-      "d) 54.360 lei"
-    ],
-    "answer": "b",
     "category": "CONTABILITATE FINANCIARA"
   },
   {
@@ -2049,17 +2027,6 @@
     "category": "CONTABILITATE FINANCIARA"
   },
   {
-    "question": "Situaţia creanţelor clienţi, la o firmă neînregistrată în scopuri de TVA, la sfârşitul anului N este: client A 1.000 lei probabilitate de încasare 55%; client B 1.300 lei, probabilitate de încasare 30%; client C 1.500 lei, probabilitatea de neîncasare 30%. Care este mărimea ajustărilor pentru deprecierea creanţelor ce pot fi constituite la sfârşitul anului N?",
-    "options": [
-      "a)2.294 lei;",
-      "b) 2.710 lei;",
-      "c) 1.810 lei;",
-      "d) 1.920 lei."
-    ],
-    "answer": "c",
-    "category": "CONTABILITATE FINANCIARA"
-  },
-  {
     "question": "Pentru asigurarea unui mijloc de transport încheiată la sfârșitul lunii martie, pentru o perioadă de 12 luni, în valoare de 1.200 lei, în luna septembrie se face înregistrarea:",
     "options": [
       "a)613   =   401   100",
@@ -2104,34 +2071,12 @@
     "category": "CONTABILITATE FINANCIARA"
   },
   {
-    "question": "Ce semnifică următoarea formulă contabilă: 421 = 426",
-    "options": [
-      "a)ajutoare materiale cuvenite salariaţilor;",
-      "b) avansuri acordate salariaţilor;",
-      "c) drepturi de personal neridicate, ajunse la scadență;",
-      "d) decontarea salariilor cuvenite."
-    ],
-    "answer": "c",
-    "category": "CONTABILITATE FINANCIARA"
-  },
-  {
     "question": "Ce semnifică următoarea formulă contabilă: 425 = 5311",
     "options": [
       "a)drepturi de personal neridicate ajunse la scadenţă;",
       "b) plată avansuri din slarii;",
       "c) ajutoare materiale cuvenite salariaţilor;",
       "d) înregistrarea unor reţineri din salarii."
-    ],
-    "answer": "b",
-    "category": "CONTABILITATE FINANCIARA"
-  },
-  {
-    "question": "Salariile neridicate se înregistrază prin formula contabilă:",
-    "options": [
-      "a)426  =  421",
-      "b) 421 = 426",
-      "c) 426 = 5121",
-      "d) Nu se înregistrează"
     ],
     "answer": "b",
     "category": "CONTABILITATE FINANCIARA"
@@ -2379,61 +2324,6 @@
     "category": "CONTABILITATE FINANCIARA"
   },
   {
-    "question": "MS Access reprezintă un SGBD:",
-    "options": [
-      "a)relaţional",
-      "b) orientat obiect",
-      "c) modern",
-      "d) costisitor"
-    ],
-    "answer": "a",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Un SGBD are:",
-    "options": [
-      "a)un limbaj puternic",
-      "b) un limbaj de definire a datelor",
-      "c) un limbaj de programare",
-      "d) un limbaj redus"
-    ],
-    "answer": "b",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Un SGBD are:",
-    "options": [
-      "a)un limbaj de interogare a datelor",
-      "b) un limbaj interactiv",
-      "c) un limbaj de programare",
-      "d) un limbaj redus"
-    ],
-    "answer": "a",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Un SGBD are:",
-    "options": [
-      "a)un limbaj interactiv",
-      "b) un limbaj de programare",
-      "c) un limbaj de manipulare a datelor",
-      "d) un limbaj redus"
-    ],
-    "answer": "c",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Un SGBD are:",
-    "options": [
-      "a)un limbaj interactiv, un limbaj de definire a datelor şi un limbaj de programare",
-      "b) un limbaj de programare, un limbaj de manipulare a datelor şi un limbaj de urgenţă",
-      "c) un limbaj de manipulare a datelor, un limbaj de interogare a datelor şi un limbaj de definire a datelor",
-      "d) un limbaj de manipulare a datelor, un limbaj de interogare a datelor şi un limbaj de programare a datelor"
-    ],
-    "answer": "a",
-    "category": "BAZE DE DATE"
-  },
-  {
     "question": "Modelele de date se pot clasifica in:",
     "options": [
       "a)modele ierarhice, retea, relationale, orientate obiect",
@@ -2511,39 +2401,6 @@
     "category": "BAZE DE DATE"
   },
   {
-    "question": "Intr-o instructiune SQL numele sursei de date (tabele si/sau interogari) este specificat de clauza:",
-    "options": [
-      "a)FROM",
-      "b) WHERE",
-      "c) HAVING",
-      "d) GROUP BY"
-    ],
-    "answer": "a",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Conceptul de bază de date face referire la:",
-    "options": [
-      "a)un ansamblu de tabele",
-      "b) un ansamblu de relaţii",
-      "c) un fişier",
-      "d) una sau mai multe colecţii de date împreună cu descrierea datelor şi a relaţiilor dintre acestea"
-    ],
-    "answer": "d",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Între tabelele unei baze de date putem stabili:",
-    "options": [
-      "a)diferenţe",
-      "b) asemănări",
-      "c) corespondenţe",
-      "d) legături"
-    ],
-    "answer": "d",
-    "category": "BAZE DE DATE"
-  },
-  {
     "question": "O cheie primară reprezintă:",
     "options": [
       "a)un concept de securitate",
@@ -2577,78 +2434,12 @@
     "category": "BAZE DE DATE"
   },
   {
-    "question": "Interfata  grafica  din  ACCESS  care  permite  construirea  cererilor  de  interogare  se numeste:",
-    "options": [
-      "a)GUI",
-      "b) SQL",
-      "c) QBE",
-      "d) VBA"
-    ],
-    "answer": "c",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Obiectele Macros din ACCESS permit:",
-    "options": [
-      "a)editarea numelui bazei de date",
-      "b) efectuarea automata a unor operatii asupra obiectelor bazei de date",
-      "c) definirea macrotabelelor",
-      "d) definirea macrorapoartelor"
-    ],
-    "answer": "b",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Un index reprezintă:",
-    "options": [
-      "a)o modalitate de securizare a unei tabele",
-      "b) o modalitate de optimizare a regăsirii datelor într-o tabelă",
-      "c) o modalitate de criptare a datelor",
-      "d) o modalitate de blocare a accesului concurenţial"
-    ],
-    "answer": "b",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "In ACCESS exista urmatoarele tipuri de interogari:",
-    "options": [
-      "a)de selectie, de actiune, de re-actiune;",
-      "b) de selectie, de analiza incrucisata, de actiune, parametrizate",
-      "c) parametrizate, recursive, iterative",
-      "d) iterative, recursive, de selectie"
-    ],
-    "answer": "b",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Conceptul de concurenţă face referire la:",
-    "options": [
-      "a)faptul că mai mulţi utilizatori se întrec între ei",
-      "b) faptul că două tabele sunt accesate de utilizatori",
-      "c) faptul că aceeaşi resursă informaţională este accesată simultan de mai mulţi utilizatori",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "c",
-    "category": "BAZE DE DATE"
-  },
-  {
     "question": "Pentru realizarea interogarilor in ACCESS se folosesc obiectele:",
     "options": [
       "a)Tables",
       "b) Queries",
       "c) Forms",
       "d) Reports"
-    ],
-    "answer": "b",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Un index poate fi definit:",
-    "options": [
-      "a)pentru o singură coloană",
-      "b) pentru oricâte coloane cu condiţia ca niciuna dintre coloane să nu accepte valori NULL",
-      "c) pentru oricâte coloane",
-      "d) niciuna dintre variantele de mai sus"
     ],
     "answer": "b",
     "category": "BAZE DE DATE"
@@ -2665,61 +2456,6 @@
     "category": "BAZE DE DATE"
   },
   {
-    "question": "Uniunea reprezintă un:",
-    "options": [
-      "a)element de bază al oricărui SGBD",
-      "b) operator al modelului operaţional",
-      "c) operator al modelului de legături",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "d",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Intersecţia reprezintă un:",
-    "options": [
-      "a)element de bază al oricărui SGBD",
-      "b) operator al modelului operaţional",
-      "c) operator al modelului de relaţional",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "c",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Selecţia reprezintă un:",
-    "options": [
-      "a)element de bază al oricărui SGBD",
-      "b) operator al modelului operaţional",
-      "c) operator al modelului de date",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "d",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "SQL reprezintă un:",
-    "options": [
-      "a)limbaj de programare",
-      "b) limbaj de definire, interogare şi modificare a datelor",
-      "c) limbaj de date",
-      "d) niciuna dintre variantele de mai sus <br> Se considera tabelele: <br> Client(Cod, Denumire, Judet, Localitate, CodFiscal, Adresa, PlafonCredit, DataAdaugare) <br> Factura(ID, NrFactura, CodClient, DataFactura, Suma, SumaTva, DataScadenta) <br> ContinutFactura(ID,FacturaID,CodProdus,Cantitate,Pret,Suma,SumaTva) <br> Produs(Cod,Denumire,Um,Clasa)"
-    ],
-    "answer": "b",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Efectul executării instrucţiunii SQL: Delete Client where Cod like “A*”este:",
-    "options": [
-      "a)şterge toţi clienţii",
-      "b) şterge toţi clienţii cu codul A*",
-      "c) şterge toţi clienţii al căror cod începe cu A",
-      "d) şterge toţi clienţii al căror cod începe cu A*"
-    ],
-    "answer": "c",
-    "category": "BAZE DE DATE"
-  },
-  {
     "question": "Efectul executării instrucţiunii SQL: Delete Client este:",
     "options": [
       "a)şterge toţi clienţii",
@@ -2731,39 +2467,6 @@
     "category": "BAZE DE DATE"
   },
   {
-    "question": "Efectul executării instrucţiunii SQL: Delete Client where Cod not in (select CodClient from Facturi) este:",
-    "options": [
-      "a)şterge toţi clienţii care au mai mult de 3 facturi",
-      "b) şterge toţi clienţii cu codul identic cu cel al produselor",
-      "c) şterge toţi clienţii care au cel puţin o factură",
-      "d) şterge toţi clienţii care nu au nicio factură"
-    ],
-    "answer": "d",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Efectul executării instrucţiunii SQL: Delete Client where Cod in (select CodClient from Facturi group by CodClient having count(*)>3) este:",
-    "options": [
-      "a)şterge toţi clienţii care au mai mult de 3 facturi",
-      "b) şterge toţi clienţii cu codul identic cu cel al produselor",
-      "c) şterge toţi clienţii care au cel puţin o factură",
-      "d) şterge toţi clienţii care nu au nicio factură"
-    ],
-    "answer": "a",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Efectul  executării  instrucţiunii  SQL:  Delete  Client  where  Cod  like  “A*”  and year(DataAdaugare)>year(Now())-1 este:",
-    "options": [
-      "a)şterge toţi clienţii adăugaţi în ultimul an",
-      "b) şterge toţi clienţii cu codul A* adăugaţi în ultimul an",
-      "c) şterge toţi clienţii al căror cod începe cu A adăugaţi în ultimul an",
-	  "d) şterge toţi clienţii al căror cod începe cu A* adăugaţi în ultimul an"
-    ],
-    "answer": "c",
-    "category": "BAZE DE DATE"
-  },
-  {
     "question": "Efectul executării instrucţiunii SQL: Select * from Client este:",
     "options": [
       "a)selectează toţi clienţii adăugaţi în ultimul an",
@@ -2772,50 +2475,6 @@
       "d) selectează toţi clienţii"
     ],
     "answer": "d",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Efectul executării instrucţiunii SQL: Select * from Client group by Cod este:",
-    "options": [
-      "a)instrucţiunea este greşită",
-      "b) selectează toţi clienţii cu codul A* adăugaţi în ultimul an",
-      "c) selectează toţi clienţii al căror cod începe cu A adăugaţi în ultimul an",
-      "d) selectează toţi clienţii"
-    ],
-    "answer": "a",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Efectul  executării  instrucţiunii  SQL:  Select  count(*),Judet  from  Client  group  by Judet este:",
-    "options": [
-      "a)instrucţiunea este greşită",
-      "b) afişează lista judeţelor şi numărul de clienţi din fiecare judeţ",
-      "c) selectează toţi clienţii al căror judeţ începe cu o grupare",
-      "d) selectează toţi clienţii Se da tabela Produse(Cod, Denumire, Pret, Cantitate, UM)"
-    ],
-    "answer": "b",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Instructiunea SQL: SELECT * from Produse where pret is not null; realizeaza:",
-    "options": [
-      "a)afisarea tuturor inregistrarilor din tabela Produse pentru care exista pret.",
-      "b) afisarea tuturor inregistrarilor din tabela Produse care au pretul diferit de zero",
-      "c) afisarea tuturor inregistrarilor din tabela Produse",
-      "d) selectarea tabelei Produse si actualizarea pretului"
-    ],
-    "answer": "a",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Instructiunea SQL: UPDATE Produse SET pret=1.15*pret are ca efect:",
-    "options": [
-      "a)actualizarea tuturor preturilor prin cresterea lor cu 15%",
-      "b) actualizarea tuturor preturilor prin scaderea lor cu 15%",
-      "c) setarea tuturor preturilor la 15% din valoarea initiala",
-      "d) nici un raspuns nu e corect"
-    ],
-    "answer": "a",
     "category": "BAZE DE DATE"
   },
   {
@@ -2852,160 +2511,6 @@
     "category": "BAZE DE DATE"
   },
   {
-    "question": "Subformularele au rolul:",
-    "options": [
-      "a)de a subinteroga baza de date",
-      "b) de a actualiza mai multe tabele prin intermediul unei singure ferestre",
-      "c) de creare a subinterogarilor",
-      "d) de creare a formularelor simple"
-    ],
-    "answer": "b",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "In ACCESS tipul de date MEMO reprezinta:",
-    "options": [
-      "a)un numar memorat in format binar",
-      "b) un numar memorat in format hexazecimal",
-      "c) un text",
-      "d) un fisier atasat"
-    ],
-    "answer": "c",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "În MS Access interfaţa QBE permite:",
-    "options": [
-      "a)realizarea de programe",
-      "b) realizarea de macro-uri",
-      "c) realizarea de pagini web",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "d",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "În MS Access o interogare permite:",
-    "options": [
-      "a)executarea unor instrucţiuni SQL de modificare asupra bazei de date",
-      "b) executarea unor instrucţiuni SQL de adăugare asupra bazei de date",
-      "c) executarea unor instrucţiuni SQL de selecţie asupra bazei de date",
-      "d) executarea unor instrucţiuni SQL asupra bazei de date"
-    ],
-    "answer": "d",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "În MS Access interogările sunt:",
-    "options": [
-      "a)de 2 tipuri",
-      "b) de 3 tipuri",
-      "c) de 4 tipuri",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "c",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "În MS Access formularele sunt utilizate pentru:",
-    "options": [
-      "a)realizarea interfeţei de preluare-validare de date",
-      "b) realizarea interfeţei cu alte sisteme",
-      "c) realizarea interfeţei web",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "a",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "În MS Access un câmp dintr-un formular poate fi legat la:",
-    "options": [
-      "a)un câmp al unei interogări",
-      "b) un câmp al unei macrocomenzi",
-      "c) un meniu al sistemului",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "a",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Proprietatile formularelor din categoria DATA se refera la:",
-    "options": [
-      "a)evenimente ce pot fi tratate de obiecte Macro",
-      "b) proprietati referitoare la sursa de date si la inregistrarile aferente",
-      "c) la dimensiune, aspect, coordonate de afisare",
-      "d) nici un raspuns nu e corect"
-    ],
-    "answer": "c",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "În  MS  Access  validarea  valorilor  a  două  câmpuri  aparţinînd  unor  tabele  diferite implică:",
-    "options": [
-      "a)utilizarea unei macrocomenzi sau a codului VB",
-      "b) utilizarea proprietăţilor validation rule respectiv validation text la nivelul celor două tabele",
-      "c) realizarea unei interogări copil care să execute o comandă externă",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "a",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "În MS Access pentru a conecta un câmp al unui formular cu valoarea liniei curente dintr-o interogare trebuie să utilizăm:",
-    "options": [
-      "a)proprietatea Source",
-      "b) proprietatea Data Source",
-      "c) proprietatea Control Source",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "c",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Obiectele  ACCESS  care  contin  proceduri  definite  de  utilizator  scrise  in  VBA  se numesc:",
-    "options": [
-      "a)Queries",
-      "b) Forms",
-	  "c) Reports",
-	  "d) Modules"
-    ],
-    "answer": "d",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Componenta Form Wizard serveste la:",
-    "options": [
-      "a)Asistarea utilizatorului in definirea tabelelor si formularelor",
-      "b) Asistarea utilizatorului in definirea rapoartelor si formularelor",
-      "c) Asistarea utilizatorului in definirea formularelor",
-      "d) Asistarea utilizatorului in definirea macroinstructiunilor si formularelor"
-    ],
-    "answer": "c",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "În MS Access modulele de cod implică utilizarea limbajului:",
-    "options": [
-      "a)Visual Basic",
-      "b) C#",
-      "c) SQL",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "a",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "În MS Access rapoartele au la bază:",
-    "options": [
-      "a)o tabelă",
-      "b) o interogare",
-      "c) o tabelă sau o interogare",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "c",
-    "category": "BAZE DE DATE"
-  },
-  {
     "question": "Valoarea NULL modeleaza:",
     "options": [
       "a)o informatie necunoscuta sau inaplicabila",
@@ -3015,50 +2520,6 @@
     ],
     "answer": "a",
     "category": "BAZE DE DATE"
-  },
-  {
-    "question": "În MS Access realizarea unei legături presupune:",
-    "options": [
-      "a)o acţiune complexă de interconectare în vederea funcţionării ca un tot unitar a două sau mai multe tabele",
-      "b) activarea ferestrei de construire a legăturilor urmată tragerea cheilor primare peste cheile externe",
-      "c) activarea ferestrei de construire a legăturilor urmată tragerea unuia dintre câmpurile cheii primare peste cheia externă",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "c",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "În MS Access pentru activarea integrităţii referenţiale trebuie:",
-    "options": [
-      "a)bifată opţiunea la realizarea unei noi legături",
-      "b) bifată opţiunea la construirea unei tabele",
-      "c) bifată opţiunea la construirea unui formular",
-      "d) niciuna dintre variantele de mai sus"
-    ],
-    "answer": "a",
-    "category": "BAZE DE DATE"
-  },
-  {
-    "question": "Care definiţie este corectă:",
-    "options": [
-      "a)Un sistem reprezintă un ansamblu de elemente interdependente, care se comportă si actionează ca un tot organizat în scopul atingerii unui anumit obiectiv;",
-      "b) Un sistem reprezintă un ansamblu de elemente care au rolul să rezolve activităţi specifice;",
-      "c) Un sistem reprezintă un ansamblu de elemente organizaţionale;",
-      "d) Un sistem reprezintă un ansamblu de elemente multiplicative."
-    ],
-    "answer": "a",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Sistemul informaţional reprezintă:",
-    "options": [
-      "a)un sistem operaţional;",
-      "b) un ansamblul de elemente implicate în procesul de colectare, transmisie şi prelucrare de informatii;",
-      "c) un sistem decizional;",
-      "d) niciuna dintre variantele anterioare."
-    ],
-    "answer": "b",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
   },
   {
     "question": "Identificaţi afirmaţia falsă:",
@@ -3078,61 +2539,6 @@
       "b) Sistemul operaţional;",
       "c) Sistemul informaţional;",
       "d) Niciuna dintre variantele de mai sus."
-    ],
-    "answer": "b",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Un sistem informatic este:",
-    "options": [
-      "a)un sistem destinat conducerii unei organizaţii;",
-      "b) un sistem organizaţional;",
-      "c) un ansamblu structurat de elemente intercorelate funcţional pentru automatizarea procesului de obţinere a informaţiilor şi pentru fundamentarea deciziilor;",
-      "d) niciuna dintre variantele de mai sus."
-    ],
-    "answer": "c",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Teoria  organizaţiilor  a  pus  în  evidenţă  că  orice  organizaţie  care  îsi  desfăsoară activitatea în domeniul economic cuprinde următoarele 3 sisteme:",
-    "options": [
-      "a)informaţional, decizional, organizaţional;",
-      "b) informativ, decisiv, activ;",
-      "c) informaţional, aditiv, multiplicativ;",
-      "d) informaţional, decizional, operaţional."
-    ],
-    "answer": "d",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Care dintre următoarele componente nu se regăsesc printre componentele principale ale unui sistem informatic:",
-    "options": [
-      "a)Baza informaţională;",
-      "b) Manager general;",
-      "c) Factorul uman;",
-      "d) Sistemul de programe."
-    ],
-    "answer": "b",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Baza informaţională cuprinde:",
-    "options": [
-      "a)datele supuse prelucrării, fluxurile informaţionale, sistemele şi nomenclatoarele de coduri;",
-	  "b) totalitatea mijloacelor tehnice de culegere, transmitere, stocare şi prelucrare a datelor;",
-	  "c) algoritmi, formule, modele;",
-	  "d) tehnici de realizare a sistemelor informatice."
-    ],
-    "answer": "a",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Un organism economic poate fi abordat în vederea proiectării într-o manieră:",
-    "options": [
-      "a)Sistematică",
-      "b) Sistemică",
-      "c) Teoretică",
-      "d) Obiectivă"
     ],
     "answer": "b",
     "category": "SISTEME INFORMATICE DE GESTIUNE"
@@ -3160,28 +2566,6 @@
     "category": "SISTEME INFORMATICE DE GESTIUNE"
   },
   {
-    "question": "Obiectivul principal urmărit prin introducerea unui sistem informatic îl constituie:",
-    "options": [
-      "a)asigurarea, în timp util, a informaţiilor necesare în procesul conducerii, în scopul fundamentării şi elaborării deciziilor;",
-      "b) creşterea productivităţii muncii;",
-      "c) creşterea profitului;",
-      "d) îmbunătăţirea imaginii unităţii economice."
-    ],
-    "answer": "a",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Proiectarea unui sistem informatic poate fi abordată:",
-    "options": [
-      "a)de sus în jos, de jos în sus, mixt;",
-      "b) de la stânga la dreapta, de sus în jos, în diagonală;",
-      "c) pe laterale, pe centru, mixt;",
-      "d) de jos în sus, de sus către centru, de la centru la dreapta."
-    ],
-    "answer": "a",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
     "question": "Etapele ciclului de dezvoltare a sistemelor informatice de gestiune sunt:",
     "options": [
       "a)Conceperea, construirea şi introducerea în exploatare;",
@@ -3204,17 +2588,6 @@
     "category": "SISTEME INFORMATICE DE GESTIUNE"
   },
   {
-    "question": "Mentenanţa unui sistem reprezintă:",
-	"options": [
-      "a)testarea sistemului în condiţii reale de utilizare;",
-      "b) încărcarea software-ului de aplicaţie în structurile adecvate;",
-      "c) lansarea efectivă în execuţie a sistemului;",
-      "d) totalitatea acţiunilor efectuate pentru menţinerea sau restabilirea stării de funcţionare a sistemului."
-    ],
-    "answer": "d",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
     "question": "Ciclurile de bază ale proiectării unui sistem informatic sunt:",
     "options": [
       "a)de viaţă, de decizie, de abstractizare;",
@@ -3223,75 +2596,6 @@
 	  "d) de instalare, de evaluare, de achiziţionare."
     ],
     "answer": "a",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Care din afirmaţiile următoare sunt corecte:",
-    "options": [
-      "a)Metoda top-down are ca obiectiv principal realizarea modularizării sistemului de sus în jos.",
-      "b) Metoda top-down constă în agregarea modulelor de jos în sus.",
-      "c) Metoda top-down constă în agregarea modulelor de la stânga la dreapta.",
-      "d) Metoda top-down este o metodă orientată-obiect."
-    ],
-    "answer": "a",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Se consideră entităţile si asocierile din figură. Cardinalitatea asocierii este:",
-	"image": "imagini/19.png",
-    "options": [
-      "a)1-1",
-      "b) 1-N",
-      "c) M-N",
-      "d) 0-1"
-    ],
-    "answer": "b",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Se  cunoaste  faptul  că  identificatorii  entităţii  Client,  respectiv  Contract  sunt  CNP pentru Client si NrContract pentru Contract. Ca urmare a modelării asocierii rezultă decizia:    CNP                                                                   NrContract",
-    "image": "imagini/20.png",
-	"options": [
-      "a)CNP se adaugă entităţii Contract",
-      "b) NrContract se adaugă entitaţii Client",
-      "c) se înfiinţează o nouă entitate",
-      "d) asocierea nu necesită modelare"
-    ],
-    "answer": "a",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Se consideră entităţile si asocierile din figură. Cardinalitatea asocierii este:",
-    "image": "imagini/21.png",
-	"options": [
-      "a)1-1",
-      "b) 1-N",
-      "c) M-N",
-      "d) 0-1"
-    ],
-    "answer": "c",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Se consideră entităţile din figură care au ca identificatori NrBonConsum respectivCodArticol. Ca urmare a modelării asocierii rezultă decizia:",
-    "options": [
-      "a)CodArticol se adaugă entităţii BonConsum",
-      "b) NrBonConsum se adaugă entităţii Articol",
-      "c) se înfiinţează o nouă entitate care are drept atribute CodArticol si NrBonConsum",
-      "d) asocierea nu necesită modelare"
-    ],
-    "answer": "c",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Să  se  specifice  criteriile  pe  care  un  concept  trebuie  să  le  îndeplinească  pentru  a ficonsiderat entitate în cadrul unui MCD:",
-    "options": [
-      "a)să fie identificabil, să existe fizic, să aparţină domeniului de modelat; CLIENT CONTRACT semnează CLIENT CONTRACT semnează BonConsum Articol conţine BonConsum Articol conţine",
-	  "b) să aparţină domeniului de modelat, să fie identificabil în raport cu celelalte concepte, să poată fi descris cu ajutorul unor atribute, să aibă existenţă de sine stătătoare;",
-	  "c) să fie complex, să existe fizic, să aibă existenţă de sine stătătoare;",
-	  "d) să existe, să fie descris prin caracteristici si să nu poată fi omis din model."
-    ],
-    "answer": "b",
     "category": "SISTEME INFORMATICE DE GESTIUNE"
   },
   {
@@ -3339,95 +2643,6 @@
     "category": "SISTEME INFORMATICE DE GESTIUNE"
   },
   {
-    "question": "Fiecărei asocieri din MCD îi corespunde în MRD, conform regulilor de conversie, următorul concept:",
-    "options": [
-      "a)cheie primară;",
-      "b) cheie externă;",
-      "c) legătură;",
-      "d) tabelă."
-    ],
-    "answer": "c",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Să se determine tipul asocierii prezentate mai jos:",
-    "image": "imagini/29.png",
-	"options": [
-      "a)unară",
-      "b) reflexivă",
-      "c) binară",
-      "d) ternară"
-    ],
-    "answer": "d",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Din punct de vedere al modului de reprezentare a informaţiei, atributele pot fi:",
-    "options": [
-      "a)simple şi calculate;",
-      "b) elementare şi compuse;",
-      "c) opţionale şi obligatorii;",
-	  "d) simple şi complexe"
-    ],
-    "answer": "b",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Identificatorul entitatii “Factura” descrisă prin atributele număr_factura , data_factura , cod_produs, cantitate, preţ, este :",
-    "options": [
-      "a)număr_factura;",
-      "b) data_factura;",
-      "c) număr_factura şi data_factura;",
-      "d) cod_produs."
-    ],
-    "answer": "c",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Identificatorul entităţii “Factura” descrisă prin atributele număr_factura , data_factura , cod_produs, cantitate, preţ, este:",
-    "options": [
-      "a)unic;",
-      "b) simplu;",
-      "c) compus;",
-      "d) complex."
-    ],
-    "answer": "c",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Din punct de vedere al valorilor pe care le pot lua la un moment dat, atributele pot fi:",
-    "options": [
-      "a)elementare şi compuse;",
-      "b) opţionale şi obligatorii;",
-      "c) monovaloare şi multivaloare;",
-      "d) simple şi complexe."
-    ],
-    "answer": "c",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Următoarea afirmaţie este corectă:",
-    "options": [
-      "a)Factura cu numărul 145 din data de 23.05.2010 reprezintă o entitate oarecare.",
-      "b) Factura cu numărul 145 din data de 23.05.2010 reprezintă o realizare a entităţii FACTURA.",
-      "c) Factura cu numărul 145 din data de 23.05.2010 reprezintă un atribut complex.",
-      "d) Factura cu numărul 145 din data de 23.05.2010 reprezintă o înregistrare care urmează să se introducă."
-    ],
-    "answer": "b",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Din punct de vedere al rolului pe care îl îndeplineşte atributul respectiv în cadrul modelului, atributele pot fi:",
-    "options": [
-      "a)cheie primară, cheie candidat, cheie externă;",
-      "b) cheie primară, cheie secundară, cheie decizională;",
-      "c) cheie iniţială, cheie internă, cheie externă;",
-      "d) cheie iniţială, cheie secundară, cheie decizională."
-    ],
-    "answer": "a",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
     "question": "În cadrul MERISE pentru descrierea statică a modelului se utilizează:",
     "options": [
       "a)Modelul Entitate-Asociere;",
@@ -3461,63 +2676,6 @@
     "category": "SISTEME INFORMATICE DE GESTIUNE"
   },
   {
-    "question": "Care din afirmaţiile următoare sunt corecte, în cazul realizării studiului detaliat:",
-    "options": [
-      "a)Asigura modelarea conceptuală si organizatională a sistemului informatic.",
-      "b) Asigura modelarea logică si fizică a sistemului informatic.",
-      "c) Asigura modelarea conceptuală si fizică a sistemului informatic.",
-      "d) Niciuna dintre variantele de mai sus."
-    ],
-    "answer": "a",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Care din afirmaţiile următoare sunt corecte, în cazul realizarii studiului tehnic:",
-    "options": [
-      "a)Asigura modelarea conceptuală si organizatională a sistemului informatic.",
-      "b) Asigura modelarea logică si fizică a sistemului informatic.",
-      "c) Asigura modelarea conceptuală si fizică a sistemului informatic.",
-      "d) Niciuna dintre variantele de mai sus."
-    ],
-    "answer": "b",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Care din afirmaţiile următoare sunt corecte, în cazul ciclului de abstractizare:",
-    "options": [
-      "a)Ciclul de abstractizare conţine 3 niveluri: conceptual, logic si fizic.",
-      "b) Ciclul de abstractizare conţine 3 niveluri: conceptual, organizaţional si decizional.",
-      "c) Ciclul de abstractizare conţine 3 niveluri: conceptual, decizional si operaţional.",
-      "d) Niciuna dintre variantele de mai sus."
-    ],
-    "answer": "a",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Se consideră entităţile si asocierile din figura următoare. Se cunosc identificatorii celor  două  entităti,  și  anume:  CodClient  pentru  entitatea  CLIENT  și  NrComanda pentru  entitatea  COMANDA,  precum  şi  următoarele  două  reguli  de  gestiune:  o comanda vine de la un singur client si un client poate să trimită una sau mai multe comenzi. Ca urmare a modelării asocierii rezultă decizia:",
-    "image": "imagini/42.png",    
-	"options": [
-      "a)CodClient se adaugă entitatii COMANDA;",
-      "b) NrComanda se adaugă entitatii CLIENT;",
-      "c) Se introduce o entitate suplimentară;",
-      "d) Asocierea nu necesită modelare."
-    ],
-    "answer": "a",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Se consideră entităţile din figura următoare. Identificatorii celor două entităti sunt: NrComanda pentru entitatea COMANDA si CodProdus pentru entitatea PRODUS. Ca urmare a modelării asocierii rezultă decizia:",
-    "image": "imagini/43.png", 
-	"options": [
-      "a)CodProdus se adaugă entitatii COMANDA;",
-      "b) NrComanda se adaugă entitatii PRODUS;",
-      "c) Se introduce o entitate suplimentară ce are ca atribute CodProdus si NrComanda;",
-      "d) Asocierea nu necesită modelare."
-    ],
-    "answer": "c",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
     "question": "Trecerea de la MCD la MLD presupune că fiecarei entităti din MCD, îi corespunde, în MLD, următorul concept:",
     "options": [
       "a)tabelă;",
@@ -3540,23 +2698,12 @@
     "category": "SISTEME INFORMATICE DE GESTIUNE"
   },
   {
-    "question": "46. În MLD, o linie dintr-o tabelă se numește:",
+    "question": "În MLD, o linie dintr-o tabelă se numește:",
     "options": [
       "a)cheie externă;",
       "b) cheie primară;",
       "c) tuplu;",
 	  "d) relatie"
-    ],
-    "answer": "c",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Implementarea reprezintă:",
-    "options": [
-      "a)o etapă de testare a unui sistem informatic;",
-      "b) o etapă de evaluare a unui sistem informatic;",
-      "c) una dintre etapele ciclului de viaţă a unui sistem informatic;",
-      "d) conceptul nu este legat de noţiunea de sistem informatic în niciun fel."
     ],
     "answer": "c",
     "category": "SISTEME INFORMATICE DE GESTIUNE"
@@ -3568,16 +2715,6 @@
       "b) Există sisteme informatice fără ciclu de viaţă.",
       "c) Atunci cand mediul informational evoluează foarte mult, se recomandă un nou ciclu de viaţă, ce presupune renuntarea utilizarii sistemului informatic.",
       "d) Nu există sisteme informatice fără ciclu de viaţă."
-    ],
-    "answer": "b",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Mentenanţa reprezintă:",
-    "options": [
-      "a)o etapă de testare a unui sistem informatic;",
-      "b) etapa care succede implementării unui sistem informatic;",
-      "c) o etapă de iniţializare a unui sistem informatic; conceptul nu este legat de noţiunea de sistem informatic în niciun fel."
     ],
     "answer": "b",
     "category": "SISTEME INFORMATICE DE GESTIUNE"
@@ -3613,50 +2750,6 @@
       "d) niciuna dintre variantele de mai sus."
     ],
     "answer": "c",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Care  din  afirmaţiile  următoare  sunt  corecte,  în  cazul  metodelor  de  proiectare orientate-obiect:",
-    "options": [
-      "a)mentenanţa unui sistem informatic, proiectat prin metoda orientată-obiect, ridică numeroase probleme;",
-      "b) problema este spartă în subprobleme;",
-      "c) au la bază descompunerea funcţională;",
-      "d) datele si prelucrările sunt încapsulate în obiect."
-    ],
-    "answer": "d",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Identificaţi afirmaţia falsă, în cazul abordării top-down:",
-    "options": [
-      "a)Presupune mai întâi definirea de ansamblu a proceselor si detalierea acestora ulterior.",
-      "b) Timpul de proiectare în cazul uneia asemenea abordări este mare.",
-      "c) Costurile implicate sunt foarte mari.",
-      "d) Are ca punct de plecare nivelul operaţional - aflat la baza piramidei ierarhice - şi, prin realizarea informatizării la fiecare nivel în parte, se ajunge la nivelul superior al piramidei."
-    ],
-    "answer": "d",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "UML reprezintă acronimul pentru:",
-    "options": [
-      "a)Unified Method Leverage;",
-      "b) Unified Method Language;",
-      "c) Unified Modeling Leverage;",
-	  "d) Unified Modeling Language."
-    ],
-    "answer": "d",
-    "category": "SISTEME INFORMATICE DE GESTIUNE"
-  },
-  {
-    "question": "Identificaţi afirmaţia falsă:",
-    "options": [
-      "a)O strategie top-down presupune un timp de proiectare si dezvoltare, mult mai mare comparativ cu aplicarea unei strategii bottom-up.",
-      "b) O strategie bottom-up presupune un timp de proiectare si dezvoltare, mult mai mare comparativ cu aplicarea unei strategii top-down.",
-      "c) O strategie top-down presupune existenţa unei viziuni si unei gândiri unitare asupra sistemului.",
-      "d) O strategie bottom-up permite demararea simultană a procesului de proiectare a unui sistem informatic din mai multe departamente."
-    ],
-    "answer": "b",
     "category": "SISTEME INFORMATICE DE GESTIUNE"
   },
   {
