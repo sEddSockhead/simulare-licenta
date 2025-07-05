@@ -250,6 +250,14 @@
             box-shadow: 0 8px 25px rgba(255, 107, 107, 0.4);
         }
 
+        .btn.success {
+            background: linear-gradient(135deg, #28a745, #218838);
+        }
+
+        .btn.success:hover:not(:disabled) {
+            box-shadow: 0 8px 25px rgba(40, 167, 69, 0.4);
+        }
+
         .score-display {
             font-size: 1.2em;
             font-weight: 600;
@@ -315,12 +323,12 @@
             font-size: 1.1em;
         }
 
-        .start-screen {
+        .start-screen, .category-selection-screen {
             padding: 60px 40px;
             text-align: center;
         }
 
-        .start-screen h2 {
+        .start-screen h2, .category-selection-screen h2 {
             color: #2c3e50;
             margin-bottom: 20px;
             font-size: 2.2em;
@@ -431,6 +439,45 @@
             font-weight: 600;
         }
 
+        .category-selection-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .category-selection-card {
+            background: #f8f9fa;
+            border: 2px solid #e9ecef;
+            border-radius: 15px;
+            padding: 25px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .category-selection-card:hover {
+            background: #e3f2fd;
+            border-color: #2196f3;
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(33, 150, 243, 0.2);
+        }
+
+        .category-selection-card h3 {
+            color: #2c3e50;
+            font-size: 1.4em;
+            margin-bottom: 10px;
+        }
+
+        .category-selection-card p {
+            color: #6c757d;
+            font-size: 1em;
+        }
+
         @media (max-width: 768px) {
             .container {
                 margin: 10px;
@@ -459,8 +506,8 @@
                 margin: 5px 0;
             }
         }
-
-/* Îmbunătățiri pentru mobil - adaugă aceste reguli la sfârșitul CSS-ului existent */
+		
+		/* Îmbunătățiri pentru mobil - adaugă aceste reguli la sfârșitul CSS-ului existent */
 
 /* Optimizări generale pentru mobil */
 @media (max-width: 768px) {
@@ -622,6 +669,19 @@
         font-size: 0.9em;
         margin: 15px 0;
     }
+
+    .category-selection-screen {
+        padding: 30px 20px;
+    }
+    .category-selection-grid {
+        grid-template-columns: 1fr;
+    }
+    .category-selection-card {
+        padding: 20px;
+    }
+    .category-selection-card h3 {
+        font-size: 1.2em;
+    }
 }
 
 /* Pentru telefoane foarte mici */
@@ -740,7 +800,7 @@
         color: #ffffff;
     }
 }
-	    
+		
     </style>
 </head>
 <body>
@@ -777,7 +837,17 @@
                 ✅ Întrebările au fost încărcate cu succes!
             </div>
             
-            <button class="btn" id="startBtn" onclick="startExam()" disabled>🚀 Începe Examenul</button>
+            <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
+                <button class="btn" id="startBtn" onclick="startExam()" disabled>🚀 Începe Examenul</button>
+                <button class="btn success" id="practiceBtn" onclick="showCategorySelection()" disabled>📚 Repetă Întrebările</button>
+            </div>
+        </div>
+
+        <div id="categorySelectionScreen" class="category-selection-screen" style="display: none;">
+            <h2>Alege o categorie pentru practică</h2>
+            <div class="category-selection-grid" id="categorySelectionGrid">
+                </div>
+            <button class="btn danger" onclick="goBackToStart()">Înapoi</button>
         </div>
 
         <div id="examContainer" style="display: none;">
@@ -785,7 +855,7 @@
                 <div class="progress-info">
                     <span>Întrebarea <span id="questionNumber">1</span> din <span id="totalQuestions">90</span></span>
                     <span class="answered-count">Răspunse: <span id="answeredCount">0</span></span>
-                    <span class="score-display">Punctaj: <span id="currentScore">10</span>/100</span>
+                    <span class="score-display">Punctaj: <span id="currentScore">10</span>/<span id="maxScoreDisplay">100</span></span>
                     <span class="timer" id="timer">03:00:00</span>
                 </div>
                 <div class="progress-bar">
@@ -815,13 +885,14 @@
 
         <div id="resultsScreen" style="display: none;">
             <div class="results-container">
-                <h2>🎉 Examen Finalizat!</h2>
+                <h2 id="resultsTitle">🎉 Examen Finalizat!</h2>
                 <div class="final-score" id="finalScore">85/100</div>
                 <div class="pass-status" id="passStatus">✅ PROMOVAT</div>
                 <div class="category-breakdown" id="categoryBreakdown"></div>
                 <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 30px;">
                     <button class="btn" onclick="restartExam()">🔄 Încearcă din nou</button>
                     <button class="btn" onclick="reviewAnswers()">📋 Revizuiește Răspunsurile</button>
+                    <button class="btn danger" onclick="goBackToStart()">🏠 Acasă</button>
                 </div>
             </div>
         </div>
@@ -834,9 +905,11 @@
         let allQuestions = [];
         let currentQuestionIndex = 0;
         let userAnswers = [];
-        let score = 10; // Puncte din oficiu
+        let score = 0; 
         let timeLeft = 180 * 60; // 3 ore în secunde
         let timerInterval;
+        let examMode = 'exam'; // 'exam' or 'practice'
+        let practiceCategory = ''; // 'CONTABILITATE FINANCIARA' or 'INFORMATICA'
 
         // Funcție pentru încărcarea întrebărilor din fișierul JSON
         async function loadQuestionsFromFile() {
@@ -844,10 +917,13 @@
             const errorStatus = document.getElementById('errorStatus');
             const successStatus = document.getElementById('successStatus');
             const startBtn = document.getElementById('startBtn');
+            const practiceBtn = document.getElementById('practiceBtn');
 
             loadingStatus.style.display = 'block';
             errorStatus.style.display = 'none';
             successStatus.style.display = 'none';
+            startBtn.disabled = true;
+            practiceBtn.disabled = true;
 
             try {
                 const response = await fetch('intrebari-raspunsuri.json');
@@ -862,6 +938,7 @@
                 successStatus.innerHTML = `✅ Încărcate ${questionsData.length} întrebări din fișierul JSON`;
                 
                 startBtn.disabled = false;
+                practiceBtn.disabled = false;
                 
                 console.log(`✅ Încărcate ${questionsData.length} întrebări din fișierul JSON`);
                 return true;
@@ -875,6 +952,7 @@
                     <small>Verificați că fișierul există în același director cu HTML-ul și că este valid JSON.</small>`;
                 
                 startBtn.disabled = true;
+                practiceBtn.disabled = true;
                 isQuestionsLoaded = false;
                 return false;
             }
@@ -945,11 +1023,41 @@
             console.log(`- Alte categorii: ${allQuestions.filter(q => !q.category.includes('CONTABILITATE')).length}`);
         }
 
+        function preparePracticeQuestions(category) {
+            allQuestions.length = 0; // Clear existing questions
+            let filteredQuestions = [];
+
+            if (category === 'CONTABILITATE FINANCIARA') {
+                filteredQuestions = questionsData.filter(q => 
+                    q.category === "CONTABILITATE FINANCIARA" || 
+                    q.category === "CONTABILITATE FINANCIARĂ"
+                );
+            } else if (category === 'INFORMATICA') {
+                filteredQuestions = questionsData.filter(q => 
+                    q.category === "BAZE DE DATE" || 
+                    q.category.includes("BAZE") ||
+                    q.category === "SISTEME INFORMATICE DE GESTIUNE" || 
+                    q.category.includes("SISTEME")
+                );
+            }
+
+            shuffleArray(filteredQuestions);
+            allQuestions = filteredQuestions.map((q, index) => ({
+                ...q,
+                id: `practice_${index}`,
+                questionNumber: index + 1,
+                examOrder: index + 1
+            }));
+
+            console.log(`✅ Pregătite ${allQuestions.length} întrebări pentru practică în categoria: ${category}`);
+        }
+
         async function startExam() {
             const startBtn = document.getElementById('startBtn');
             const originalText = startBtn.innerHTML;
             startBtn.innerHTML = '⏳ Se pregătește examenul...';
             startBtn.disabled = true;
+            document.getElementById('practiceBtn').disabled = true;
 
             try {
                 // Load questions if not already loaded
@@ -961,7 +1069,9 @@
                     throw new Error('Nu s-au putut încărca întrebările');
                 }
 
-                // Prepare questions for exam
+                examMode = 'exam';
+                score = 10; // 10 puncte din oficiu pentru modul examen
+                document.getElementById('maxScoreDisplay').textContent = '100';
                 prepareExamQuestions();
                 
                 // Hide start screen and show exam
@@ -972,6 +1082,7 @@
                 userAnswers = new Array(allQuestions.length).fill(null);
                 
                 // Start timer
+                timeLeft = 180 * 60; // Reset timer for exam mode
                 startTimer();
                 
                 // Display first question
@@ -982,7 +1093,86 @@
                 alert(`Eroare la pornirea examenului: ${error.message}`);
                 startBtn.innerHTML = originalText;
                 startBtn.disabled = false;
+                document.getElementById('practiceBtn').disabled = false;
             }
+        }
+
+        function startPractice(category) {
+            if (!isQuestionsLoaded) {
+                alert('Întrebările nu sunt încărcate. Vă rugăm așteptați.');
+                return;
+            }
+
+            examMode = 'practice';
+            practiceCategory = category;
+            score = 0; // Punctaj de pornire 0 pentru modul practică
+
+            preparePracticeQuestions(category);
+
+            document.getElementById('maxScoreDisplay').textContent = allQuestions.length;
+            document.getElementById('currentScore').textContent = score;
+            document.getElementById('startScreen').style.display = 'none';
+            document.getElementById('categorySelectionScreen').style.display = 'none';
+            document.getElementById('examContainer').style.display = 'block';
+
+            userAnswers = new Array(allQuestions.length).fill(null);
+
+            // Stop and hide timer for practice mode
+            if (timerInterval) {
+                clearInterval(timerInterval);
+            }
+            document.getElementById('timer').textContent = 'PRACTICĂ';
+            document.getElementById('timer').className = 'timer';
+
+            displayQuestion();
+        }
+
+        function showCategorySelection() {
+            if (!isQuestionsLoaded) {
+                alert('Întrebările nu sunt încărcate. Vă rugăm așteptați.');
+                return;
+            }
+            document.getElementById('startScreen').style.display = 'none';
+            document.getElementById('categorySelectionScreen').style.display = 'block';
+
+            const categoryGrid = document.getElementById('categorySelectionGrid');
+            categoryGrid.innerHTML = '';
+
+            const contabilitateFinanciaraCount = questionsData.filter(q => 
+                q.category === "CONTABILITATE FINANCIARA" || q.category === "CONTABILITATE FINANCIARĂ"
+            ).length;
+            const informaticaCount = questionsData.filter(q => 
+                q.category === "BAZE DE DATE" || q.category.includes("BAZE") ||
+                q.category === "SISTEME INFORMATICE DE GESTIUNE" || q.category.includes("SISTEME")
+            ).length;
+
+            const categories = [
+                { id: 'CONTABILITATE FINANCIARA', name: 'Contabilitate Financiară', count: contabilitateFinanciaraCount },
+                { id: 'INFORMATICA', name: 'Informatică (Baze de Date + S.I.G.)', count: informaticaCount }
+            ];
+
+            categories.forEach(cat => {
+                const card = document.createElement('div');
+                card.className = 'category-selection-card';
+                card.onclick = () => startPractice(cat.id);
+                card.innerHTML = `
+                    <h3>${cat.name}</h3>
+                    <p>Întrebări disponibile: ${cat.count}</p>
+                `;
+                categoryGrid.appendChild(card);
+            });
+        }
+
+        function goBackToStart() {
+            document.getElementById('categorySelectionScreen').style.display = 'none';
+            document.getElementById('examContainer').style.display = 'none';
+            document.getElementById('resultsScreen').style.display = 'none';
+            document.getElementById('startScreen').style.display = 'block';
+
+            // Ensure buttons are correctly enabled/disabled
+            document.getElementById('startBtn').disabled = !isQuestionsLoaded;
+            document.getElementById('practiceBtn').disabled = !isQuestionsLoaded;
+            document.getElementById('startBtn').innerHTML = '🚀 Începe Examenul';
         }
 
         function startTimer() {
@@ -998,6 +1188,12 @@
         }
 
         function updateTimerDisplay() {
+            if (examMode === 'practice') {
+                document.getElementById('timer').textContent = 'PRACTICĂ';
+                document.getElementById('timer').className = 'timer';
+                return;
+            }
+
             const hours = Math.floor(timeLeft / 3600);
             const minutes = Math.floor((timeLeft % 3600) / 60);
             const seconds = timeLeft % 60;
@@ -1219,8 +1415,12 @@
                 }
             });
             
-            // Final score = 10 points starting + correct answers
-            score = 10 + correctAnswers;
+            // Final score depends on exam mode
+            if (examMode === 'exam') {
+                score = 10 + correctAnswers; // 10 points from office
+            } else { // practice mode
+                score = correctAnswers; // Score is just correct answers
+            }
             
             // Store results for display
             window.examResults = {
@@ -1228,7 +1428,7 @@
                 correctAnswers: correctAnswers,
                 totalQuestions: allQuestions.length,
                 categoryScores: categoryScores,
-                passed: score >= 60
+                passed: examMode === 'exam' ? score >= 60 : (correctAnswers / allQuestions.length) >= 0.6 // For practice, pass if >= 60%
             };
         }
 
@@ -1238,44 +1438,93 @@
             
             const results = window.examResults;
             
-            document.getElementById('finalScore').textContent = `${results.finalScore}/100`;
+            document.getElementById('finalScore').textContent = `${results.finalScore}/${examMode === 'exam' ? '100' : results.totalQuestions}`;
             
             const passStatus = document.getElementById('passStatus');
-            if (results.passed) {
-                passStatus.textContent = '✅ PROMOVAT';
-                passStatus.className = 'pass-status pass';
-            } else {
-                passStatus.textContent = '❌ RESPINS';
-                passStatus.className = 'pass-status fail';
+            const resultsTitle = document.getElementById('resultsTitle');
+
+            if (examMode === 'exam') {
+                resultsTitle.textContent = '🎉 Examen Finalizat!';
+                if (results.passed) {
+                    passStatus.textContent = '✅ PROMOVAT';
+                    passStatus.className = 'pass-status pass';
+                } else {
+                    passStatus.textContent = '❌ RESPINS';
+                    passStatus.className = 'pass-status fail';
+                }
+            } else { // practice mode
+                resultsTitle.textContent = `Practică Finalizată - ${practiceCategory === 'CONTABILITATE FINANCIARA' ? 'Contabilitate' : 'Informatică'}`;
+                const percentage = ((results.correctAnswers / results.totalQuestions) * 100).toFixed(1);
+                passStatus.textContent = `Răspunsuri corecte: ${results.correctAnswers}/${results.totalQuestions} (${percentage}%)`;
+                passStatus.className = 'pass-status ' + (results.passed ? 'pass' : 'fail'); // Use same pass/fail colors
             }
-            
+
             // Display category breakdown
             const breakdown = document.getElementById('categoryBreakdown');
             breakdown.innerHTML = '';
             
-            Object.keys(results.categoryScores).forEach(category => {
-                const data = results.categoryScores[category];
-                if (data.total > 0) {
+            if (examMode === 'exam') {
+                Object.keys(results.categoryScores).forEach(category => {
+                    const data = results.categoryScores[category];
+                    if (data.total > 0) {
+                        const percentage = ((data.correct / data.total) * 100).toFixed(1);
+                        const card = document.createElement('div');
+                        card.className = 'category-card';
+                        card.innerHTML = `
+                            <div class="category-title">${category}</div>
+                            <div>Corecte: ${data.correct}/${data.total} (${percentage}%)</div>
+                            <div style="font-size: 0.9em; color: #6c757d; margin-top: 5px;">
+                                Puncte obținute: ${data.correct}
+                            </div>
+                        `;
+                        breakdown.appendChild(card);
+                    }
+                });
+            } else { // Practice mode breakdown
+                const data = results.categoryScores[practiceCategory];
+                if (data && data.total > 0) {
                     const percentage = ((data.correct / data.total) * 100).toFixed(1);
                     const card = document.createElement('div');
                     card.className = 'category-card';
                     card.innerHTML = `
-                        <div class="category-title">${category}</div>
+                        <div class="category-title">${practiceCategory === 'CONTABILITATE FINANCIARA' ? 'Contabilitate Financiară' : 'Informatică'}</div>
                         <div>Corecte: ${data.correct}/${data.total} (${percentage}%)</div>
-                        <div style="font-size: 0.9em; color: #6c757d; margin-top: 5px;">
-                            Puncte obținute: ${data.correct}
-                        </div>
                     `;
                     breakdown.appendChild(card);
+                } else if (practiceCategory === 'INFORMATICA') {
+                    // For Informatica, show breakdown of sub-categories if possible
+                    const bazeDateData = results.categoryScores['BAZE DE DATE'] || { correct: 0, total: 0 };
+                    const sistemeInformaticeData = results.categoryScores['SISTEME INFORMATICE DE GESTIUNE'] || { correct: 0, total: 0 };
+
+                    if (bazeDateData.total > 0) {
+                        const bdPercentage = ((bazeDateData.correct / bazeDateData.total) * 100).toFixed(1);
+                        const bdCard = document.createElement('div');
+                        bdCard.className = 'category-card';
+                        bdCard.innerHTML = `
+                            <div class="category-title">Baze de Date</div>
+                            <div>Corecte: ${bazeDateData.correct}/${bazeDateData.total} (${bdPercentage}%)</div>
+                        `;
+                        breakdown.appendChild(bdCard);
+                    }
+                    if (sistemeInformaticeData.total > 0) {
+                        const sigPercentage = ((sistemeInformaticeData.correct / sistemeInformaticeData.total) * 100).toFixed(1);
+                        const sigCard = document.createElement('div');
+                        sigCard.className = 'category-card';
+                        sigCard.innerHTML = `
+                            <div class="category-title">Sisteme Informatice de Gestiune</div>
+                            <div>Corecte: ${sistemeInformaticeData.correct}/${sistemeInformaticeData.total} (${sigPercentage}%)</div>
+                        `;
+                        breakdown.appendChild(sigCard);
+                    }
                 }
-            });
+            }
         }
 
         function restartExam() {
             // Reset all variables
             currentQuestionIndex = 0;
             userAnswers = [];
-            score = 10;
+            score = 0; // Will be set to 10 or 0 based on examMode
             timeLeft = 180 * 60;
             
             if (timerInterval) {
@@ -1286,10 +1535,15 @@
             document.getElementById('resultsScreen').style.display = 'none';
             document.getElementById('startScreen').style.display = 'block';
             
-            // Reset start button
+            // Reset start and practice buttons
             const startBtn = document.getElementById('startBtn');
+            const practiceBtn = document.getElementById('practiceBtn');
             startBtn.disabled = !isQuestionsLoaded;
+            practiceBtn.disabled = !isQuestionsLoaded;
             startBtn.innerHTML = '🚀 Începe Examenul';
+
+            // Reset max score display for next exam/practice
+            document.getElementById('maxScoreDisplay').textContent = '100'; 
         }
 
         function reviewAnswers() {
@@ -1310,6 +1564,21 @@
             
             // Update navigation for review mode
             document.getElementById('nextBtn').textContent = 'Următoarea ➡';
+            document.getElementById('nextBtn').onclick = () => {
+                if (currentQuestionIndex < allQuestions.length - 1) {
+                    currentQuestionIndex++;
+                    displayQuestion();
+                } else {
+                    alert('Ai parcurs toate întrebările în modul revizuire.');
+                }
+            };
+            document.getElementById('prevBtn').onclick = () => {
+                if (currentQuestionIndex > 0) {
+                    currentQuestionIndex--;
+                    displayQuestion();
+                }
+            };
+            document.querySelector('.navigation .btn.danger').style.display = 'none'; // Hide Finish Exam button
         }
 
         // Load questions when page loads
@@ -1319,7 +1588,7 @@
 
         // Prevent accidental page refresh during exam
         window.addEventListener('beforeunload', function (e) {
-            if (document.getElementById('examContainer').style.display !== 'none') {
+            if (document.getElementById('examContainer').style.display !== 'none' && examMode === 'exam') {
                 e.preventDefault();
                 e.returnValue = '';
             }
