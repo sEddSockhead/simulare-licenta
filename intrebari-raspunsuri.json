@@ -1788,9 +1788,8 @@
     "question": "Cu ocazia inventarierii, se constată plusuri în gestiunea de materii prime în valoare de 660 lei. Alegeți înregistrarea corectă.",
     "options": [
       "a)301 „Materii prime” = 601 „Cheltuieli cu materiile prime” 660",
-      "b) 301 „Materii prime” = 601 „Cheltuieli cu materiile prime” 660",
-      "c) 601 „Cheltuieli cu materiile prime” = 301 „Materii prime” 660",
-      "d) 301 „Materii prime” = 758 „Alte venituri din exploatare” 660"
+      "b) 601 „Cheltuieli cu materiile prime” = 301 „Materii prime” 660",
+      "c) 301 „Materii prime” = 758 „Alte venituri din exploatare” 660"
     ],
     "answer": "a",
     "category": "CONTABILITATE FINANCIARA"
@@ -2775,7 +2774,7 @@
     "category": "SISTEME INFORMATICE DE GESTIUNE"
   },
   {
-    "question": "Modelarea unei asocieri de tipul „unu la mulţi” se realizează astfel:",
+    "question": "Modelarea unei asocieri de tipul „UNU la mulţi” se realizează astfel:",
     "options": [
       "a)identificatorul entitatii cu cardinalitate maximă 1 se adaugă entităţii cu cardinalitate maximă N;",
       "b) se introduce o nouă entitate care are drept atribute de pornire, identificatorii celor două entităţi implicate iniţial în asociere;",
@@ -2786,7 +2785,7 @@
     "category": "SISTEME INFORMATICE DE GESTIUNE"
   },
   {
-    "question": "Modelarea unei asocieri de tipul „mulţi la mulţi” se realizează astfel:",
+    "question": "Modelarea unei asocieri de tipul „MULTI la mulţi” se realizează astfel:",
     "options": [
       "a)identificatorul entitatii cu cardinalitate maximă 1 se adaugă entităţii cu cardinalitate maximă N;",
       "b) se introduce o nouă entitate care are drept atribute de pornire, identificatorii celor două entităţi implicate iniţial în asociere;",
