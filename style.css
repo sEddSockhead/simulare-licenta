@@ -841,6 +841,11 @@ body {
             rgba(255,255,255,0.03) 30px
         );
     }
+
+.question-container {
+    background-color: #252525; /* Match the container's dark background */
+}
+    
     .question-text, .category-title {
         color: #ECF0F1;
     }
