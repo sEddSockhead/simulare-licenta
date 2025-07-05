@@ -44,7 +44,7 @@
     "category": "CONTABILITATE FINANCIARA"
   },
   {
-    "question": "Caracteristicile calitative ale informației financiare sunt: <br> A. Fundamentale (relevanța și reprezentarea exactă) <br> B. Generale (relevanța, comparabilitatea, verificabilitatea li credibilitatea) <br> C. Fundamentale (credibilitatea, relevanța și reprezentarea exactă)<br> D. Amplificatoare (comparabilitatea, verificabilitatea, oportunitatea și inteligibilitatea) <br> E. Generale (credibilitatea, comparabilitatea, verificabilitatea și inteligibilitatea) <br> F. Amplificatoare (verificabilitatea, oportunitatea și inteligibilitatea) <br> G. Relevante (fundamentale și generale) <br> H. Amplificatoare (comparabilitatea, verificabilitatea, oportunitatea și reprezentarea exactă)",
+    "question": "Caracteristicile calitative ale informației financiare sunt: \n A. Fundamentale (relevanța și reprezentarea exactă) \n B. Generale (relevanța, comparabilitatea, verificabilitatea li credibilitatea) \n C. Fundamentale (credibilitatea, relevanța și reprezentarea exactă)\n D. Amplificatoare (comparabilitatea, verificabilitatea, oportunitatea și inteligibilitatea) \n E. Generale (credibilitatea, comparabilitatea, verificabilitatea și inteligibilitatea) \n F. Amplificatoare (verificabilitatea, oportunitatea și inteligibilitatea) \n G. Relevante (fundamentale și generale) \n H. Amplificatoare (comparabilitatea, verificabilitatea, oportunitatea și reprezentarea exactă)",
     "options": [
       "a) A. și D",
       "b) A., D și G",
@@ -55,7 +55,7 @@
     "category": "CONTABILITATE FINANCIARA"
   },
     {
-    "question": "Caracteristicile calitative amplificatoare sunt: <br> A. Comparabilitatea <br> B. Relevanța <br> C. Credibilitatea <br> D. Verificabilitatea <br> E. Reprezentarea exactă <br> F. Oportunitatea<br> G. Inteligibilitatea",
+    "question": "Caracteristicile calitative amplificatoare sunt: \n A. Comparabilitatea \n B. Relevanța \n C. Credibilitatea \n D. Verificabilitatea \n E. Reprezentarea exactă \n F. Oportunitatea\n G. Inteligibilitatea",
     "options": [
       "a) A, D, F și G",
       "b) A, C, F și G",
@@ -761,10 +761,10 @@
   {
     "question": "Capitalul social al unei entităţi este 6.000 lei, rezerve 1.000 lei, prime de capital 500 lei, numărul  de  acţiuni  3.000.  Se  răscumpără  şi  se  anulează  30%  din  acţiunile  societăţii. Preţul  de  răscumpărare  este  de  1,5  lei/acţiune.  Care  este  înregistrarea  corectă  privind anularea acţiunilor?",
     "options": [
-      "a)1012 = % 1.800 <br> 109 1.350 <br> 141 450",
-	  "b)1011 = % 1.800 <br> 109 1.350 <br> 1041 450",
-	  "c)1011 = % 1.800 <br> 261 1.350 <br> 141 450",
-	  "d)1012 = % 1.800 <br> 456 1.350 <br> 1041 450"
+      "a)1012 = % 1.800 \n 109 1.350 \n 141 450",
+	  "b)1011 = % 1.800 \n 109 1.350 \n 1041 450",
+	  "c)1011 = % 1.800 \n 261 1.350 \n 141 450",
+	  "d)1012 = % 1.800 \n 456 1.350 \n 1041 450"
     ],
     "answer": "a",
     "category": "CONTABILITATE FINANCIARA"
@@ -781,7 +781,7 @@
     "category": "CONTABILITATE FINANCIARA"
   },
   {
-    "question": "Stabiliţi valoarea capitalului propriu cunoscând soldurile conturilor: <br> Ct 1011… .4.000 lei <br> Ct 1012 .….1.500 lei <br> Ct 104 ……..500 lei <br> Ct 161 …...2.000 lei <br> Ct 162 …...1.500 lei <br> Ct 211 …...1.000 lei <br> Ct 212…... 6.000 lei <br> Ct 371……1.000 lei <br> Ct 5121 …..1.000 lei",
+    "question": "Stabiliţi valoarea capitalului propriu cunoscând soldurile conturilor: \n Ct 1011… .4.000 lei \n Ct 1012 .….1.500 lei \n Ct 104 ……..500 lei \n Ct 161 …...2.000 lei \n Ct 162 …...1.500 lei \n Ct 211 …...1.000 lei \n Ct 212…... 6.000 lei \n Ct 371……1.000 lei \n Ct 5121 …..1.000 lei",
     "options": [
       "a)4.000 lei;",
       "b) 2.500 lei;",
@@ -807,8 +807,8 @@
     "options": [
       "a)109 = 5311 2.500",
       "b)1012 = 109 2.500",
-	  "c)% = 109 2.500 <br> 1012 2.000 <br> 149 500",
-	  "d)1012 = % 2.500 <br> 109 2.000 <br> 149 500"
+	  "c)% = 109 2.500 \n 1012 2.000 \n 149 500",
+	  "d)1012 = % 2.500 \n 109 2.000 \n 149 500"
     ],
     "answer": "c",
     "category": "CONTABILITATE FINANCIARA"
@@ -816,10 +816,10 @@
   {
     "question": "Se răscumpără şi se anulează 1.000 de obligaţiuni in condiţiile: valoare nominală 2 lei/obligaţiune, valoare de răscumpărare 1,5 lei/obligaţiune. Care este formula contabilă privind anularea obligaţiunilor?",
     "options": [
-      "a) 161 = % 2.000 <br> 505 1.500 <br> 1012 500",
-	  "b) 161 = % 2.000 <br> 505 1.500 <br> 768 500",
-	  "c) 161 = % 2.000 <br> 505 1.500 <br> 1011 500",
-	  "d) 161 = % 2.000 <br> 505 1.500 <br> 169 500"
+      "a) 161 = % 2.000 \n 505 1.500 \n 1012 500",
+	  "b) 161 = % 2.000 \n 505 1.500 \n 768 500",
+	  "c) 161 = % 2.000 \n 505 1.500 \n 1011 500",
+	  "d) 161 = % 2.000 \n 505 1.500 \n 169 500"
     ],
     "answer": "b",
     "category": "CONTABILITATE FINANCIARA"
@@ -838,10 +838,10 @@
   {
     "question": "O entitate economică converteşte 400 obligaţiuni de 100 lei în acţiuni, fiecare obligaţiune dând dreptul la 4 acţiuni în valoare nominală de 10 lei. Operaţia se înregistrează prin formula contabilă:",
     "options": [
-      "a) 161 = % 40.000 <br> 1012 25.000 <br> 1044 15.000",
-	  "b) 161 = % 40.000 <br> 1011 24.000 <br> 1041 16.000",
-	  "c) 161 = % 40.000 <br> 1012 16.000 <br> 1044 24.000",
-	  "d) 161 = % 40.000 <br> 1012 24.000 <br> 1044 16.000"
+      "a) 161 = % 40.000 \n 1012 25.000 \n 1044 15.000",
+	  "b) 161 = % 40.000 \n 1011 24.000 \n 1041 16.000",
+	  "c) 161 = % 40.000 \n 1012 16.000 \n 1044 24.000",
+	  "d) 161 = % 40.000 \n 1012 24.000 \n 1044 16.000"
     ],
     "answer": "c",
     "category": "CONTABILITATE FINANCIARA"
@@ -871,10 +871,10 @@
   {
     "question": "Situaţia înainte de creşterea capitalului social se prezintă astfel: capital social 10.000 lei, împărţit în 10.000 de acţiuni, rezerve 8.000 lei. Se decide creşterea capitalului social prin noi  aporturi  în  numerar  pentru  care  se  emit  5.000  de  acţiuni  la  preţ  de  emisiune  1,2 lei/acţiune. Care este valoarea contabilă nouă a unei acţiuni şi formula contabilă?  VC Formula contabilă",
     "options": [
-      "a) 1,6 456 = % 6.000 <br> 1011 5.000 <br> 1041 1.000",
+      "a) 1,6 456 = % 6.000 \n 1011 5.000 \n 1041 1.000",
 	  "b) 1,067 456 = 1011 6.000",
 	  "c) 1,6 456 = 1011 6.000",
-	  "d) 1,067 456 = % 6.000 <br> 1011 5.000 <br> 1041 1.000"
+	  "d) 1,067 456 = % 6.000 \n 1011 5.000 \n 1041 1.000"
     ],
     "answer": "a",
     "category": "CONTABILITATE FINANCIARA"
@@ -904,10 +904,10 @@
   {
     "question": "Cunoscând valoarea nominală a unei obligaţiuni (1,2 lei/obligaţiune) şi valoarea nominală  a  unei  acţiuni  (1,5  lei/acţiune),  care  este  înregistrarea  contabilă  aferentă transformării  a 7.000 obligaţiuni,  în 5.000 acţiuni?",
     "options": [
-      "a) 161 = % 8.400 <br> 1012 7.500 <br> 1041 900",
-	  "b) % = 1011 8.400 <br> 161 7.500 <br> 1044 900",
-	  "c) % = 1012 8.400 <br> 161 7.500 <br> 1044 900",
-	  "d) 161 = % 8.400 <br> 1012 7.500 <br> 1044 900"
+      "a) 161 = % 8.400 \n 1012 7.500 \n 1041 900",
+	  "b) % = 1011 8.400 \n 161 7.500 \n 1044 900",
+	  "c) % = 1012 8.400 \n 161 7.500 \n 1044 900",
+	  "d) 161 = % 8.400 \n 1012 7.500 \n 1044 900"
     ],
     "answer": "d",
     "category": "CONTABILITATE FINANCIARA"
@@ -935,12 +935,12 @@
     "category": "CONTABILITATE FINANCIARA"
   },
   {
-    "question": "Un provizion va fi recunoscut în contabilitate în cazurile în care: <br> A. o societate are o obligaţie curentă (legală sau implicită) generată de un eveniment anterior; <br> B. o societate are o obligaţie curentă (legală sau implicită) generată de un eveniment curent; <br> C. este probabil ca o ieşire de resurse care să afecteze beneficiile economice să fie necesară pentru a onora obligaţia respectivă; <br> D. este probabil ca o intrare de resurse care să afecteze beneficiile economice să fie necesară pentru a onora obligaţia respectivă; <br> E. nu este posibilă estimarea valorii obligaţiei; <br> F. poate fi realizată o bună estimare a valorii obligaţiei.",
+    "question": "Un provizion va fi recunoscut în contabilitate în cazurile în care: \n A. o societate are o obligaţie curentă (legală sau implicită) generată de un eveniment anterior; \n B. o societate are o obligaţie curentă (legală sau implicită) generată de un eveniment curent; \n C. este probabil ca o ieşire de resurse care să afecteze beneficiile economice să fie necesară pentru a onora obligaţia respectivă; \n D. este probabil ca o intrare de resurse care să afecteze beneficiile economice să fie necesară pentru a onora obligaţia respectivă; \n E. nu este posibilă estimarea valorii obligaţiei; \n F. poate fi realizată o bună estimare a valorii obligaţiei.",
     "options": [
-	  "a. (A), (B) şi (F);",
-	  "b. (B), (D) şi (E);",
-	  "c. (A), (C) şi (F);",
-	  "d. (A), (C) şi (E);"
+	  "a) (A), (B) şi (F);",
+	  "b) (B), (D) şi (E);",
+	  "c) (A), (C) şi (F);",
+	  "d) (A), (C) şi (E);"
     ],
     "answer": "c",
     "category": "CONTABILITATE FINANCIARA"
@@ -992,10 +992,10 @@
   {
     "question": "O entitate economică achiziţionează un utilaj, cu factură, care cuprinde: preţ de achiziție 10.000 lei, TVA 19%, cheltuieli de transport facturate de furnizor 500 lei, TVA 19%. Care este înregistrarea corectă privind achiziţia utilajului?",
     "options": [
-	  "a) % = 404 11.900 <br> 2131 10.000 <br> 4426 1.900",
-	  "b) % = 404 12.495 <br> 4426 1.995",
-	  "c) % = 404 12.495 <br> 231 10.500 <br> 4426 1.995",
-	  "d) % = 404 12.495 <br> 2131 10.500 <br> 4426 1.900 <br> 4428 95"
+	  "a) % = 404 11.900 \n 2131 10.000 \n 4426 1.900",
+	  "b) % = 404 12.495 \n 4426 1.995",
+	  "c) % = 404 12.495 \n 231 10.500 \n 4426 1.995",
+	  "d) % = 404 12.495 \n 2131 10.500 \n 4426 1.900 \n 4428 95"
     ],
     "answer": "b",
     "category": "CONTABILITATE FINANCIARA"
@@ -1003,16 +1003,16 @@
   {
     "question": "La  data  de  29  mai  anul  N,  se  achiziţionează  un  utilaj  la  preţ  de  achiziţie  9.000  lei, transport înscris în factură 800 lei, TVA 19%. Utilajul necesită efectuarea unor lucrări de montaj care se efectuează ulterior achiziției. Care este înregistrarea contabilă corectă la momentul achiziției?",
     "options": [
-	  "a) % = 404 10.710 <br> 2131 9.000 <br> 4426 1.710",
-	  "b) % = 404 10.710 <br> 231 9.000 <br> 4426 1.710",
-	  "c) % = 404 11.662 <br> 231 9.800 <br> 4426 1.862",
-	  "d) % = 404 11.662 <br> 2131 9.800 <br> 4426 1.862"
+	  "a) % = 404 10.710 \n 2131 9.000 \n 4426 1.710",
+	  "b) % = 404 10.710 \n 231 9.000 \n 4426 1.710",
+	  "c) % = 404 11.662 \n 231 9.800 \n 4426 1.862",
+	  "d) % = 404 11.662 \n 2131 9.800 \n 4426 1.862"
     ],
     "answer": "c",
     "category": "CONTABILITATE FINANCIARA"
   },
   {
-    "question": "Entitatea ABC achiziţionează utilaj din import la sfârşitul lunii iunie a anului N, cheltuielile legate de achiziţie fiind : <br> - Pretul negociat cu furnizorul extern (3.000 $; curs valutar din DVI 3,3 lei/$; curs valutar in ziua platii 3,42 lei/$); <br> - taxe vamale 1.800 lei; <br> - TVA achitata în vamă 2.223 lei; <br> - cheltuieli de transport 1.500 lei; <br> - cheltuieli de manipulare 1.000 lei; <br> - reducere comercială primită de la furnizor 800 lei; <br> - reducere financiară (scont) primită de la furnizor 250 lei. <br> Durata de viaţă utilă este de 5 ani, amortizare liniară. <br> Care este valoarea la care se va reflecta utilajul în bilanţ la închiderea exerciţiului financiar N? ",
+    "question": "Entitatea ABC achiziţionează utilaj din import la sfârşitul lunii iunie a anului N, cheltuielile legate de achiziţie fiind : \n - Pretul negociat cu furnizorul extern (3.000 $; curs valutar din DVI 3,3 lei/$; curs valutar in ziua platii 3,42 lei/$); \n - taxe vamale 1.800 lei; \n - TVA achitata în vamă 2.223 lei; \n - cheltuieli de transport 1.500 lei; \n - cheltuieli de manipulare 1.000 lei; \n - reducere comercială primită de la furnizor 800 lei; \n - reducere financiară (scont) primită de la furnizor 250 lei. \n Durata de viaţă utilă este de 5 ani, amortizare liniară. \n Care este valoarea la care se va reflecta utilajul în bilanţ la închiderea exerciţiului financiar N? ",
     "options": [
       "a)12.140 lei",
       "b) 12.924 lei",
@@ -1025,10 +1025,10 @@
   {
     "question": "În luna iulie, anul N, se constată că nu a fost scos din evidența contabilă un mijloc de transport cu valoarea de intrare de 8.000 lei, amortizat pentru 4.800 lei,  vândut in luna octombrie, anul N – 1 cu prețul de vânzare de 4.500 lei. Eroarea constatată se corectează prin înregistrarea:",
     "options": [
-	  "a) % = 2133 8.000 <br> 2813 4.800 <br> 1174 3.200",
-	  "b) % = 2133 8.000 <br> 2813 4.800 <br> 6583 3.200",
-	  "c) % = 2133 8.000 <br> 1174 4.800 <br> 6583 3.200",
-	  "d) % = 2133 8.000 <br> 1174 4.500 <br> 2813 3.500"
+	  "a) % = 2133 8.000 \n 2813 4.800 \n 1174 3.200",
+	  "b) % = 2133 8.000 \n 2813 4.800 \n 6583 3.200",
+	  "c) % = 2133 8.000 \n 1174 4.800 \n 6583 3.200",
+	  "d) % = 2133 8.000 \n 1174 4.500 \n 2813 3.500"
     ],
     "answer": "a",
     "category": "CONTABILITATE FINANCIARA"
@@ -1058,10 +1058,10 @@
   {
     "question": "Firma X achiziționează, la sfârșitul anului N o construcție la costul de achiziție de 60.000 lei. Durata de viață estimată este de 10 ani, metoda de amortizare liniară. La sfârșitul anului N + 2 se reevaluează la valoarea justă de 45.000 lei. La sfârșitul anului N + 4 se face  o  nouă  reevaluare  la  valoarea  justă  de  41.000  lei.  Alegeți  formula  corectă  de înregistrare a diferenței din reevaluare la sfârșitul anului N + 4.",
     "options": [
-      "a) 212 = % 7250 <br> 755 3000 <br> 105 4250",
-	  "b) 212 = % 5000 <br> 755 3000 <br> 105 2000",
+      "a) 212 = % 7250 \n 755 3000 \n 105 4250",
+	  "b) 212 = % 5000 \n 755 3000 \n 105 2000",
 	  "c) 212 = 755 7.250",
-	  "d) % = 212 7250 <br> 105 3000 <br> 655 4250"
+	  "d) % = 212 7250 \n 105 3000 \n 655 4250"
     ],
     "answer": "a",
     "category": "CONTABILITATE FINANCIARA"
@@ -1069,10 +1069,10 @@
   {
     "question": "Se construiește cu forțe proprii o construcție care se va folosi în scopuri administrative. Se cunosc următoarele informații: în perioada martie – iulie costurile au fost de 82.000 lei. În luna august se face recepția construcției la costul de 98.000 lei. Alegeți răspunsul corect pentru inregistrarea primei faze de producție și pentru recepția construcției.",
     "options": [
-      "a) 231 = 722 82000 si  <br> 212 = % 98000 <br> 231 82000 <br> 722 16000 ",
-	  "b) 231 = 722 98000 si  <br> 212 = % 98000 <br> 231 82000 <br> 722 16000 ",
-	  "c) 212 = 722 82000 si  <br> 212 = % 98000 <br> 231 82000 <br> 722 16000 ",
-	  "d) 231 = 722 82000 si  <br> 212 = % 98000 "
+      "a) 231 = 722 82000 si  \n 212 = % 98000 \n 231 82000 \n 722 16000 ",
+	  "b) 231 = 722 98000 si  \n 212 = % 98000 \n 231 82000 \n 722 16000 ",
+	  "c) 212 = 722 82000 si  \n 212 = % 98000 \n 231 82000 \n 722 16000 ",
+	  "d) 231 = 722 82000 si  \n 212 = % 98000 "
     ],
     "answer": "a",
     "category": "CONTABILITATE FINANCIARA"
@@ -1081,10 +1081,10 @@
   {
     "question": "O entitate economică participă la capitalul social al unei entități afiliate prin aport cu un mijloc de transport a cărui valoare de intrare este de 63.500 lei, amortizat pentru 49.500 lei.  Se  primesc  1.500  acţiuni  cu  valoarea  de  emisiune  de  15.000  lei.  Tranzacția  se înregistrează:",
     "options": [
-      "a) % = 2133 63500 <br> 2813 49500 <br> 261 14000 si <br> 261 = 768 1000",
-	  "b) % = 2133 63500 <br> 2813 49500 <br> 6583 14000 si <br> 261 = 768 15000",
-	  "c) % = 2133 63500 <br> 2813 49500 <br> 261 14000 si <br> 261 = 269 1000",
-	  "d) % = 2133 63500 <br> 2813 49500 <br> 261 14000 si <br> 261 = 768 15000"
+      "a) % = 2133 63500 \n 2813 49500 \n 261 14000 si \n 261 = 768 1000",
+	  "b) % = 2133 63500 \n 2813 49500 \n 6583 14000 si \n 261 = 768 15000",
+	  "c) % = 2133 63500 \n 2813 49500 \n 261 14000 si \n 261 = 269 1000",
+	  "d) % = 2133 63500 \n 2813 49500 \n 261 14000 si \n 261 = 768 15000"
     ],
     "answer": "a",
     "category": "CONTABILITATE FINANCIARA"
@@ -1093,10 +1093,10 @@
   {
     "question": "O entitate economică primeşte în concesiune un teren care aparţine domeniului public al statului. Durata concesiunii este de 30 de ani începând cu data de 01.06.N. În contract este prevăzută o redevență lunară de 1.500 lei, plătibilă la data de 10 a lunii următoare celei pentru care se datorează. Primirea terenului și prima tranșă datorată se înregistrează corect:",
     "options": [
-      "a) 205 = 167   540.000 <br> în debitul contului 8036 suma de 540.000  lei 167 = 404    1.500",
-      "b) 612 = 401    540.000  ȘI <br> în debitul contului 8036 suma de 540.000  lei",
-      "c) 205 =  404    540.000 <br> în debitul contului 8036 suma de 18.030 lei 167 = 404 1.500",
-      "d) În debitul contului 8036 suma de 540.000 lei <br> 612 = 401    1.500 <br> în creditul contului 8036 suma de 1.500 lei"
+      "a) 205 = 167   540.000 \n în debitul contului 8036 suma de 540.000  lei 167 = 404    1.500",
+      "b) 612 = 401    540.000  ȘI \n în debitul contului 8036 suma de 540.000  lei",
+      "c) 205 =  404    540.000 \n în debitul contului 8036 suma de 18.030 lei 167 = 404 1.500",
+      "d) În debitul contului 8036 suma de 540.000 lei \n 612 = 401    1.500 \n în creditul contului 8036 suma de 1.500 lei"
     ],
     "answer": "d",
     "category": "CONTABILITATE FINANCIARA"
@@ -1104,10 +1104,10 @@
   {
     "question": "O  entitate  economică  deţine  o  clădire  pentru  care  se  cunosc  următoarele  informaţii: valoarea de intrare 100.000 lei, amortizată pentru 70.000 lei. Clădirea este reevaluată la sfârşitul  exerciţiului  financiar  N  la  valoarea  justă  90.000  lei.  Care  sunt  înregistrările contabile corecte care se vor efectua în situația utilizării metodei valorii nete :",
     "options": [
-      "a)281 = 212 70.000 <br> 212 = 105 60.000",
+      "a)281 = 212 70.000 \n 212 = 105 60.000",
       "b) 212 = 105 20.000",
       "c) 212 = 105 60.000",
-      "d) 281 = 121 70.000 <br> 212 = 105 10.000"
+      "d) 281 = 121 70.000 \n 212 = 105 10.000"
     ],
     "answer": "a",
     "category": "CONTABILITATE FINANCIARA"
@@ -1115,10 +1115,10 @@
   {
     "question": "O entitate economică primeşte în concesiune un teren care aparţine domeniului public al statului. Durata concesiunii este de 30 de ani începând cu data de 01.06.N. În contract este prevăzută valoarea totală a concesiunii de 540.000 lei și o redevență lunară de 1.500 lei,  plătibilă  la  data  de  10  a  lunii  următoare  celei  pentru  care  se  datorează.  Primirea terenului și prima factură se înregistrează corect:",
     "options": [
-      "a)205 = 167   540.000 <br> în debitul contului 8036 suma de 540.000  lei 167 = 404    1.500",
-      "b) 612 = 401    540.000  ȘI <br> în debitul contului 8036 suma de 540.000  lei",
-      "c) 205 =  404    540.000 <br>în debitul contului 8036 suma de 18.030 lei 167 = 404 1.500",
-      "d) În debitul contului 8036 suma de 540.000 lei <br> 612 = 401    1.500 <br> în creditul contului 8036 suma de 1.500 lei"
+      "a)205 = 167   540.000 \n în debitul contului 8036 suma de 540.000  lei 167 = 404    1.500",
+      "b) 612 = 401    540.000  ȘI \n în debitul contului 8036 suma de 540.000  lei",
+      "c) 205 =  404    540.000 \nîn debitul contului 8036 suma de 18.030 lei 167 = 404 1.500",
+      "d) În debitul contului 8036 suma de 540.000 lei \n 612 = 401    1.500 \n în creditul contului 8036 suma de 1.500 lei"
     ],
     "answer": "b",
     "category": "CONTABILITATE FINANCIARA"
@@ -1203,10 +1203,10 @@
   {
     "question": "Unui mijloc de transport cu valoarea de intrare 10.000 lei, i se montează, la un service auto, o instalaţie GPL al cărei preţ de achiziţie este 1.200 lei, montaj 100 lei (TVA 19%). Factura emisă la recepția lucrării se înregistrează prin formula contabila:",
     "options": [
-		"a) % = 401 1.547 <br> 6024 1.300 <br> 4426 247",
-		"b) % = 401 1.547 <br> 6024 1.200 <br> 611 100 <br> 4426 247",
-		"c) % = 404 1.547 <br> 231 1.300 <br> 4426 247",
-		"d) % = 404 1.547 <br> 2133 1.300 <br> 4426 247"
+		"a) % = 401 1.547 \n 6024 1.300 \n 4426 247",
+		"b) % = 401 1.547 \n 6024 1.200 \n 611 100 \n 4426 247",
+		"c) % = 404 1.547 \n 231 1.300 \n 4426 247",
+		"d) % = 404 1.547 \n 2133 1.300 \n 4426 247"
     ],
     "answer": "d",
     "category": "CONTABILITATE FINANCIARA"
@@ -1216,7 +1216,7 @@
     "options": [
 		"a) 212 = 721 2,000",
 		"b) 212 = 711 2.000",
-		"c) 345 = 711 2.000 <br> 2131 = 404 2.000",
+		"c) 345 = 711 2.000 \n 2131 = 404 2.000",
 		"d) 2131 = 722 2.000"
     ],
     "answer": "d",
@@ -1225,10 +1225,10 @@
   {
     "question": "O  entitate  economică  participă  la  constituirea  capitalului  societatii  „Gamma”  S.A. (entitate  asociată),  cu  un  mijloc  de  transport  cu  valoarea  de  intrare  de  8.000  lei, amortizare inregistrata 4.900 lei. Pentru acest aport va primi acțiuni în valoare de 4.000 lei, egală cu valoarea de aport a mijlocului de transport, valoare stabilită de un expert evaluator. Alegeți răspunsul corect pentru înregistrarea tranzacției.",
     "options": [
-		"a) % = 2133 8000 <br> 2813 4900 <br> 262 3100 <br> si 262 = 768 4000",
-		"b) % = 2133 8000 <br> 2813 4900 <br> 6583 3100 <br> si 262 = 768 4000",
-		"c) % = 2133 8000 <br> 2813 4900 <br> 262 3100 <br> si 262 = 768 900",
-		"d) % = 2133 8000 <br> 2813 4900 <br> 6583 3100 <br> si 262 = 768 900"
+		"a) % = 2133 8000 \n 2813 4900 \n 262 3100 \n si 262 = 768 4000",
+		"b) % = 2133 8000 \n 2813 4900 \n 6583 3100 \n si 262 = 768 4000",
+		"c) % = 2133 8000 \n 2813 4900 \n 262 3100 \n si 262 = 768 900",
+		"d) % = 2133 8000 \n 2813 4900 \n 6583 3100 \n si 262 = 768 900"
     ],
     "answer": "c",
     "category": "CONTABILITATE FINANCIARA"
@@ -1236,10 +1236,10 @@
   {
     "question": "La sfarsitul lunii septembrie anul N, se acordă un imprumut pentru o perioadă de 5 ani, în valoare de 50.000 lei, unei filiale, cu o dobândă anuală de 8%. Rambursarea se face semestrial, in rate egale. Dobânda se încasează, de asemenea, semestrial, prima scadență fiind la sfârșitul lunii martie, N + 1. În anul N se fac următoarele înregistrări în legătură cu împrumutul acordat:",
     "options": [
-		"a) 2675 = 5121 50.000 <br> 2676 = 766 1.000",
-		"b) 2675 = 5121 50.000 <br> 666 = 2676 1.000",
-		"c) 2675 = 5121 50.000 <br> 666 = 2676 1.000 <br> 5121 = 2676 1.000",
-		"d) 2675 = 5121 50.000 <br> 666 = 2676 4.000"
+		"a) 2675 = 5121 50.000 \n 2676 = 766 1.000",
+		"b) 2675 = 5121 50.000 \n 666 = 2676 1.000",
+		"c) 2675 = 5121 50.000 \n 666 = 2676 1.000 \n 5121 = 2676 1.000",
+		"d) 2675 = 5121 50.000 \n 666 = 2676 4.000"
     ],
     "answer": "a",
     "category": "CONTABILITATE FINANCIARA"
@@ -1269,10 +1269,10 @@
   {
     "question": "O entitate economică importa un utilaj la prețul de achiziție de 2.000 USD (curs de schimb 4 lei / USD), taxe vamale 10%, TVA 19%, cheltuieli de transport 900 lei efectuat de o firmă din România; reducere comercială primită 200, reducere financiara 250 lei. Care este costul de achiziţie al utilajului și formula contabilă pentru recunoașterea acestuia?",
     "options": [
-		"a) CA = 9500 lei <br> 2131 = % 9500 <br> 404 Fz extern 7800 <br> 446 800 <br> 404 fz transport 900",
-		"b) CA = 9250 lei <br> 2131 = % 9250 <br> 404 Fz extern 7550 <br> 446 800 <br> 404 fz transport 900",
-		"c) CA = 8600 lei <br> 2131 = % 8600 <br> 404 Fz extern 7800 <br> 446 800 <br> 624 = 404 fz transport 900",
-		"d) CA = 9500 lei <br> 2131 = % 8600 <br> 404 Fz extern 7800 <br> 446 800 <br> 624 = 404 fz transport 900"
+		"a) CA = 9500 lei \n 2131 = % 9500 \n 404 Fz extern 7800 \n 446 800 \n 404 fz transport 900",
+		"b) CA = 9250 lei \n 2131 = % 9250 \n 404 Fz extern 7550 \n 446 800 \n 404 fz transport 900",
+		"c) CA = 8600 lei \n 2131 = % 8600 \n 404 Fz extern 7800 \n 446 800 \n 624 = 404 fz transport 900",
+		"d) CA = 9500 lei \n 2131 = % 8600 \n 404 Fz extern 7800 \n 446 800 \n 624 = 404 fz transport 900"
     ],
     "answer": "a",
     "category": "CONTABILITATE FINANCIARA"
@@ -1357,9 +1357,9 @@
   {
     "question": "Care este formula contabilă prin care se înregistrează dividendele cuvenite unei entități economice, în valoare de 10.000 lei, din care încasează 6.000 lei:",
     "options": [
-      "a) % = 7611 10.000 <br> 5121 6.000 <br> 267 4.000",
-	  "b) % = 7611 10.000 <br> 5121 6.000 <br> 261 4.000",
-	  "c) 5121 = 7611 6.000 <br> 267 = 261 4.000" ,
+      "a) % = 7611 10.000 \n 5121 6.000 \n 267 4.000",
+	  "b) % = 7611 10.000 \n 5121 6.000 \n 261 4.000",
+	  "c) 5121 = 7611 6.000 \n 267 = 261 4.000" ,
 	  "d) 269 = 761 10.000"
     ],
     "answer": "a",
@@ -1368,8 +1368,8 @@
   {
     "question": "O entitate economică deţine 100 titluri imobilizate (acţiuni la entități din afara grupului) la cost de achiziţie 200 lei/acţiune. Vinde aceste acţiuni la preţul de 215 lei/acţiune. Care este tratamentul contabil pentru vânzare?",
     "options": [
-	  "a) 461 = % 21.500 <br> 265 20.000 <br> 764 1.500",
-	  "b) 461 = 764 21.500 <br> Şi <br> 664 = 265 20.000",
+	  "a) 461 = % 21.500 \n 265 20.000 \n 764 1.500",
+	  "b) 461 = 764 21.500 \n Şi \n 664 = 265 20.000",
 	  "c) 461 = 768 1.500",
 	  "d) 461 = 764 20.000"
     ],
@@ -1424,8 +1424,8 @@
     "question": "Se vinde stocul de mărfuri obţinând preţul de 0.2 lei/buc. + TVA 19%. Soldul iniţial al contului 371 este de 300 lei (2.500 buc) Până la data vânzării s-au achiziţionat 1.000 buc. cu 0,15 lei/buc. + TVA. Care este formula contabilă corectă pentru scăderea din gestiune a mărfurilor vândute?",
     "options": [
       "a)411    =    707          150",
-      "b) 411    =      %           476 <br> 707         400 <br> 4427          76",
-      "c)                607    =      371        400 <br> 411    =      707       600",
+      "b) 411    =      %           476 \n 707         400 \n 4427          76",
+      "c)                607    =      371        400 \n 411    =      707       600",
       "d)                607    =      371       450"
     ],
     "answer": "d",
@@ -1511,10 +1511,10 @@
   {
     "question": "Achiziţia  de  mărfuri  în  valoare  de  8.000  lei,  TVA  19%,  fără  factură  (cu  aviz  de expediţie) se înregistrează prin formula contabilă:",
     "options": [
-	  "a) % = 408 9.520 <br> 371 8.000 <br> 4426 1.520",
-	  "b) % = 401 9.520 <br> 371 8.000 <br> 4426 1.520",
-	  "c) % = 408 9.520 <br> 371 8.000 <br> 4428 1.520",
-	  "d) % = 401 9.520 <br> 371 8.000 <br> 4428 1.520"
+	  "a) % = 408 9.520 \n 371 8.000 \n 4426 1.520",
+	  "b) % = 401 9.520 \n 371 8.000 \n 4426 1.520",
+	  "c) % = 408 9.520 \n 371 8.000 \n 4428 1.520",
+	  "d) % = 401 9.520 \n 371 8.000 \n 4428 1.520"
     ],
     "answer": "c",
     "category": "CONTABILITATE FINANCIARA"
@@ -1555,10 +1555,10 @@
   {
     "question": "O entitate economică ține evidența mărfurilor la prețul de vânzare cu amănuntul (PVA). În data de 15 martie, vinde mărfuri la PVA = 476 lei, cu încasare în numerar. Clientul X solicită factură pentru suma de 119 lei, TVA 19% inclus. Alegeți răspunsul corect privind înregistrarea facturii solicitate de clientul X și a încasării din vânzări mărfuri din data de 15 martie.",
     "options": [
-      "a)4111.X = % 119 factura client x <br> 707 100 <br> 4427 19 <br> 5311 4111.X 119 <br> 5311 % 357 <br> 707 300 <br> 4427 57",
-      "b)4111.X = % 119 factura client x <br> 707 100 <br> 4427 19 <br> 5311 = % 476 <br> 707 400 <br> 4427 76",
-      "c)4111.X = % 119 factura client x <br> 707 100 <br> 4427 19 <br> 5311 = % 566,44 <br> 707 476 <br> 4427 90,44",
-      "d)4111.X = % 119 factura client x <br> 707 100 <br> 4427 19 <br> 5311 4111.X 119 <br> 5311 % 476 <br> 707 400 <br> 4427 76"
+      "a)4111.X = % 119 factura client x \n 707 100 \n 4427 19 \n 5311 4111.X 119 \n 5311 % 357 \n 707 300 \n 4427 57",
+      "b)4111.X = % 119 factura client x \n 707 100 \n 4427 19 \n 5311 = % 476 \n 707 400 \n 4427 76",
+      "c)4111.X = % 119 factura client x \n 707 100 \n 4427 19 \n 5311 = % 566,44 \n 707 476 \n 4427 90,44",
+      "d)4111.X = % 119 factura client x \n 707 100 \n 4427 19 \n 5311 4111.X 119 \n 5311 % 476 \n 707 400 \n 4427 76"
     ],
     "answer": "a",
     "category": "CONTABILITATE FINANCIARA"
@@ -1575,9 +1575,8 @@
     "category": "CONTABILITATE FINANCIARA"
   },
   {
-    "question": "O entitate economică, înregistrată în scopuri de TVA, care utilizează metoda inventarului  intermitent,  achiziţionează  materii  prime  în  următoarele  condiţii:  preţ  de cumpărare 4.000 lei, reducere comercială 2%, TVA 19%. Recunoaşterea (contabilizare",
+    "question": "O entitate economică, înregistrată în scopuri de TVA, care utilizează metoda inventarului  intermitent,  achiziţionează  materii  prime  în  următoarele  condiţii:  preţ  de cumpărare 4.000 lei, reducere comercială 2%, TVA 19%. Recunoaşterea (contabilizarea)materiilor prime presupune:",
     "options": [
-      "a)materiilor prime presupune:",
       "a) Debitarea contului 301 „Materii prime” cu suma de 3.920 lei;",
       "b) Debitarea contului 301 „Materii prime” cu suma de 4.860,80 lei;",
       "c) Debitarea contului 601 „Cheltuieli cu materiile prime” cu suma de 3.920 lei;",
@@ -1590,9 +1589,9 @@
     "question": "Vânzarea, pe credit comercial, a produselor finite la preţ de vânzare 1.000 lei (TVA 19%) se înregistrează prin formula:",
     "options": [
 	  "a) 4111 = 345 1.000",
-	  "b) 4111 = % 1.190 <br> 345 1.000 <br> 4427 190",
-	  "c) 4111 = % 1.190 <br>701 1.000 <br> 4427 190",
-	  "d) 4111 = % 1.190 <br>711 1.000 <br> 4427 190"
+	  "b) 4111 = % 1.190 \n 345 1.000 \n 4427 190",
+	  "c) 4111 = % 1.190 \n701 1.000 \n 4427 190",
+	  "d) 4111 = % 1.190 \n711 1.000 \n 4427 190"
     ],
     "answer": "c",
     "category": "CONTABILITATE FINANCIARA"
@@ -1600,10 +1599,10 @@
   {
     "question": "Se vând mărfuri la extern, preţ de vânzare 1.400 USD (curs de schimb la facturare 3,2 lei/USD, curs de schimb la încasare 3,25 lei). Încasarea de la client se înregistrează prin formula contabilă:",
     "options": [
-	  "a) % = 4111 4.550 <br> 5124 4.480 <br> 665 70",
+	  "a) % = 4111 4.550 \n 5124 4.480 \n 665 70",
 	  "b) 5124 = 4111 4.550",
-	  "c) 5124 = % 4.550 <br> 4111 4.480 <br> 765 70",
-	  "d) 5124 = % 4.550 <br> 4111 4.480 <br> 768 70"
+	  "c) 5124 = % 4.550 \n 4111 4.480 \n 765 70",
+	  "d) 5124 = % 4.550 \n 4111 4.480 \n 768 70"
     ],
     "answer": "c",
     "category": "CONTABILITATE FINANCIARA"
@@ -1611,10 +1610,10 @@
   {
     "question": "Vânzarea mărfurilor în baza avizului de însoţire a mărfii cu valoarea totală 5.236 lei se înregistrează prin formula contabilă:",
     "options": [
-	  "a) 418 = % 6.230,84 <br> 707 5.236 <br> 4428 994,84",
-	  "b) 418 = % 5.236 <br> 707 4.400 <br> 4428 836",
-	  "c) 418 = % 5.236 <br> 707 4.400 <br> 4427 836",
-	  "d) 418 = % 6.230,84 <br> 707 5.236 <br> 4427 994,84"
+	  "a) 418 = % 6.230,84 \n 707 5.236 \n 4428 994,84",
+	  "b) 418 = % 5.236 \n 707 4.400 \n 4428 836",
+	  "c) 418 = % 5.236 \n 707 4.400 \n 4427 836",
+	  "d) 418 = % 6.230,84 \n 707 5.236 \n 4427 994,84"
     ],
     "answer": "b",
     "category": "CONTABILITATE FINANCIARA"
@@ -1664,7 +1663,7 @@
     "category": "CONTABILITATE FINANCIARA"
   },
   {
-    "question": "Ce semnifică următoarea formulă contabilă: <br> % = 4426 <br> 4427 <br> 4424",
+    "question": "Ce semnifică următoarea formulă contabilă: \n % = 4426 \n 4427 \n 4424",
     "options": [
       "a)regularizarea TVA în cazul în care TVA deductibilă este mai mare decât TVA colectată;",
       "b) regularizarea TVA în  cazul în care TVA colectată este mai mare decât  TVA deductibil;",
@@ -1765,9 +1764,9 @@
   {
     "question": "O firmă cu obiect de activitate Confecții îmbrăcăminte a constatat cu ocazia efectuării inventarului  o  lipsă  de  100  lei  în  gestiunea  de  nasturi,  lipsă  imputabilă gestionarului. Înregistrările contabile sunt următoarele:",
     "options": [
-      "a)601 „Cheltuieli cu materiile prime” = 301 „Materii prime” 100 <br> Și <br> 4282 „Alte creanţe în legătură cu personalul” = % 119 <br>   758 „Alte venituri din exploatare” 100 <br> 4427 „TVA colectată” 19",
-      "b)301 „Materii prime” = 601 „Cheltuieli cu materiile prime ”100 <br> Și <br> 4282 „Alte creanţe în legătură cu personalul” = % 119 <br>   4428 „TVA neexigibilă” 19",
-	  "c)601 „Cheltuieli cu materiile prime” = 301 „Materii prime” 100 <br> Și <br> 4282 „Alte creanţe în legătură cu personalul” = % 119 <br>   758 „Alte venituri din exploatare” 100 <br> 4428 „TVA neexigibila” 19",
+      "a)601 „Cheltuieli cu materiile prime” = 301 „Materii prime” 100 \n Și \n 4282 „Alte creanţe în legătură cu personalul” = % 119 \n   758 „Alte venituri din exploatare” 100 \n 4427 „TVA colectată” 19",
+      "b)301 „Materii prime” = 601 „Cheltuieli cu materiile prime ”100 \n Și \n 4282 „Alte creanţe în legătură cu personalul” = % 119 \n   4428 „TVA neexigibilă” 19",
+	  "c)601 „Cheltuieli cu materiile prime” = 301 „Materii prime” 100 \n Și \n 4282 „Alte creanţe în legătură cu personalul” = % 119 \n   758 „Alte venituri din exploatare” 100 \n 4428 „TVA neexigibila” 19",
 	  "d)601 „Cheltuieli cu materiile prime” = 301 „Materii prime” 100"
     ],
     "answer": "a",
@@ -1776,10 +1775,10 @@
   {
     "question": "O entitate economică are materiale consumabile în valoare de 1.800 lei. Are o ofertă generoasă pentru vânzarea a 50% din acestea cu prețul de 1.500 lei și acceptă. Făcând abstracție de TVA, alegeți înregistrările corecte:",
     "options": [
-      "a)302 Materiale consumabile = 371 Marfuri 900 <br> 4111 Clienti = 707 Venituri din vanzari marfuri 1500",
-      "b)302 Materiale consumabile = 371 Marfuri 900 <br> 4111 Clienti = 707 Venituri din vanzari marfuri 1500 <br> 607 Cheltuieli privind marfurile = 371 Marfuri 900",
-      "c)371 Marfuri = 302 Materiale consumabile 900 <br> 4111 Clienti = 707 Venituri din vanzari marfuri 1500 <br> 607 Cheltuieli privind marfurile = 371 Marfuri 900",
-      "d)302 Materiale consumabile = 371 Marfuri 900 <br> 4111 Clienti = 707 Venituri din vanzari marfuri 1500 <br> 607 Cheltuieli privind marfurile = 371 Marfuri 1500"
+      "a)302 Materiale consumabile = 371 Marfuri 900 \n 4111 Clienti = 707 Venituri din vanzari marfuri 1500",
+      "b)302 Materiale consumabile = 371 Marfuri 900 \n 4111 Clienti = 707 Venituri din vanzari marfuri 1500 \n 607 Cheltuieli privind marfurile = 371 Marfuri 900",
+      "c)371 Marfuri = 302 Materiale consumabile 900 \n 4111 Clienti = 707 Venituri din vanzari marfuri 1500 \n 607 Cheltuieli privind marfurile = 371 Marfuri 900",
+      "d)302 Materiale consumabile = 371 Marfuri 900 \n 4111 Clienti = 707 Venituri din vanzari marfuri 1500 \n 607 Cheltuieli privind marfurile = 371 Marfuri 1500"
     ],
     "answer": "c",
     "category": "CONTABILITATE FINANCIARA"
@@ -1788,8 +1787,9 @@
     "question": "Cu ocazia inventarierii, se constată plusuri în gestiunea de materii prime în valoare de 660 lei. Alegeți înregistrarea corectă.",
     "options": [
       "a)301 „Materii prime” = 601 „Cheltuieli cu materiile prime” 660",
-      "b) 601 „Cheltuieli cu materiile prime” = 301 „Materii prime” 660",
-      "c) 301 „Materii prime” = 758 „Alte venituri din exploatare” 660"
+	  "b)- - - ",
+      "c) 601 „Cheltuieli cu materiile prime” = 301 „Materii prime” 660",
+      "d) 301 „Materii prime” = 758 „Alte venituri din exploatare” 660"
     ],
     "answer": "a",
     "category": "CONTABILITATE FINANCIARA"
@@ -1830,10 +1830,10 @@
   {
     "question": "O entitate economică are produse finite la costul standard de 2.200 lei, cost efectiv de 2.025 lei. Se hotărăște transferul acestora pentru vânzare prin magazinul propriu:",
     "options": [
-      "a)371 = % 2200 <br> 345 2025 <br> 348 175",
-	  "b)% = 345 2200 <br> 371 2025 <br> 348 175",
-	  "c)% = 345 2200 <br> 711 175 <br> 371 2025",
-	  "d)371 = % 2200 <br> 711 2025 <br> 341 175"
+      "a)371 = % 2200 \n 345 2025 \n 348 175",
+	  "b)% = 345 2200 \n 371 2025 \n 348 175",
+	  "c)% = 345 2200 \n 711 175 \n 371 2025",
+	  "d)371 = % 2200 \n 711 2025 \n 341 175"
     ],
     "answer": "b",
     "category": "CONTABILITATE FINANCIARA"
@@ -1931,8 +1931,8 @@
     "options": [
       "a)4111 = 5311 1.190",
       "b) 5121 = 4111 1.190",
-      "c) 5121 = % 1.190 <br> 4111 1.000 <br> 4427 190",
-	  "d) 5311 = 4111 1.000 <br> 5121 = 4427 190"
+      "c) 5121 = % 1.190 \n 4111 1.000 \n 4427 190",
+	  "d) 5311 = 4111 1.000 \n 5121 = 4427 190"
     ],
     "answer": "b",
     "category": "CONTABILITATE FINANCIARA"
@@ -2128,9 +2128,9 @@
     "question": "Se ridică numerar din bancă 2.500 lei. Alegeţi înregistrarea corectă:",
     "options": [
 	  "a) 5311 = 5121 2.500",
-	  "b) 5121 = 581 2.500 <br> 581 = 5311 2.500",
+	  "b) 5121 = 581 2.500 \n 581 = 5311 2.500",
 	  "c) 5121 = 5311 2.500",
-	  "d) 581 = 5121 2.500 <br> 5311 = 581 2.500"
+	  "d) 581 = 5121 2.500 \n 5311 = 581 2.500"
     ],
     "answer": "d",
     "category": "CONTABILITATE FINANCIARA"
@@ -2138,10 +2138,10 @@
   {
     "question": "O întreprindere cumpără 1.000 de acţiuni în vederea obţinerii de venituri financiare într- un  termen  scurt  la  cursul  bursier  de  2,5  lei/acţiune.  Peste  2  luni  vinde  acţiunile  cu  3 lei/acţiune. Care sunt înregistrările contabile pentru cele două operaţiuni?",
     "options": [
-      "a)501 = 509 2500 <br> 461 = % 3000  <br>  501 2500  <br>  764 500",
-      "b) 501 = 462 2500 <br> 461 = % 3000  <br>  501 2500  <br>  764 500",
-      "c) 509 = 501 2500 <br> 411 = % 3000  <br>  509 2500  <br>  764 500",
-      "d) 509 = 501 3000 <br> % = 462 3000 <br> 501  2500 <br> 664  500"
+      "a)501 = 509 2500 \n 461 = % 3000  \n  501 2500  \n  764 500",
+      "b) 501 = 462 2500 \n 461 = % 3000  \n  501 2500  \n  764 500",
+      "c) 509 = 501 2500 \n 411 = % 3000  \n  509 2500  \n  764 500",
+      "d) 509 = 501 3000 \n % = 462 3000 \n 501  2500 \n 664  500"
     ],
     "answer": "a",
     "category": "CONTABILITATE FINANCIARA"
@@ -2160,10 +2160,10 @@
   {
     "question": "202. Se răscumpără la termen obligaţiunile proprii emise, la preţul de rambursare de 40.000 lei, din care 25.000 lei se achită numerar.  Obligaţiunile emise se anulează. Care sunt înregistrările contabile pentru cele două operaţiuni?",
     "options": [
-	  "a) 505 = 5311 40.000 <br> 161 = 505 40.000",
-	  "b) 505 = % 40.000 <br> 509 15.000 <br> 5311 25.000 <br> 161 = 505 40.000",
-	  "c) 506 = % 40.000 <br> 509 15.000 <br> 5311 25.000 <br> 161 = 505 40.000",
-	  "d) 505 = % 40.000 <br> 462 15.000 <br> 5311 25.000 <br> 161 = 505 40.000"
+	  "a) 505 = 5311 40.000 \n 161 = 505 40.000",
+	  "b) 505 = % 40.000 \n 509 15.000 \n 5311 25.000 \n 161 = 505 40.000",
+	  "c) 506 = % 40.000 \n 509 15.000 \n 5311 25.000 \n 161 = 505 40.000",
+	  "d) 505 = % 40.000 \n 462 15.000 \n 5311 25.000 \n 161 = 505 40.000"
     ],
     "answer": "b",
     "category": "CONTABILITATE FINANCIARA"
@@ -2248,10 +2248,10 @@
   {
     "question": "În data de 31 ianuarie se achiziționează combustibil la prețul de achiziție de 200 lei, TVA 19%. Se achită cu card de debit. Alegeți înregistrarea la data de 31.01.",
     "options": [
-      "a) % = 401 238 <br> 6022 200 <br> 4426 38 <br> si 401 = 5121 238",
-      "b) % = 401 238 <br> 6022 200 <br> 4426 38 <br> si 401 = 5125 238",
-      "c) % = 401 238 <br> 6022 200 <br> 4426 38 <br> si 401 = 473 238",
-      "d) % = 401 238 <br> 6022 200 <br> 4427 38 <br> si 401 = 5125 238"
+      "a) % = 401 238 \n 6022 200 \n 4426 38 \n si 401 = 5121 238",
+      "b) % = 401 238 \n 6022 200 \n 4426 38 \n si 401 = 5125 238",
+      "c) % = 401 238 \n 6022 200 \n 4426 38 \n si 401 = 473 238",
+      "d) % = 401 238 \n 6022 200 \n 4427 38 \n si 401 = 5125 238"
     ],
     "answer": "b",
     "category": "CONTABILITATE FINANCIARA"
@@ -2303,10 +2303,10 @@
   {
     "question": "Firma X achiziționează, la sfârșitul anului N o construcție la costul de achiziție de 60.000 lei. Durata de viață estimată este de 10 ani, metoda de amortizare liniară. La sfârșitul anului N + 2 se reevaluează la valoarea justă de 40.000 lei. La sfârșitul anului N + 4 se face o nouă reevaluare la valoarea justă de 37.250 lei. Alegeți formula corectă de  înregistrare a diferenței din reevaluare la sfârșitul anului N + 4.",
     "options": [
-	  "a) 212 = % 7.250 <br> 755 3.000 <br> 105 4.250",
-	  "b) 212 = % 5.000 <br> 755 3.000 <br> 105 2.000",
+	  "a) 212 = % 7.250 \n 755 3.000 \n 105 4.250",
+	  "b) 212 = % 5.000 \n 755 3.000 \n 105 2.000",
 	  "c) 212 = 755 7.250",
-	  "d) % = 212 7.250 <br> 105 3.000 <br> 655 4.250"
+	  "d) % = 212 7.250 \n 105 3.000 \n 655 4.250"
     ],
     "answer": "c",
     "category": "CONTABILITATE FINANCIARA"
@@ -2314,10 +2314,10 @@
   {
     "question": "Firma X achiziționează, la sfârșitul anului N o construcție la costul de achiziție de 52.500 lei. Durata de viață estimată este de 10 ani, metoda de amortizare liniară. La sfârșitul anului N + 2 se reevaluează la valoarea justă de 45.000 lei. La sfârșitul anului N + 4 se face o nouă reevaluare la valoarea justă de 26.500 lei. Alegeți formula corectă de înregistrare a diferenței din reevaluare la sfârșitul anului N + 4.",
     "options": [
-	  "a) 212 = % 7.250 <br> 755 3.000 <br> 105 4.250",
-	  "b) 212 = % 5.000 <br> 755 3.000 <br> 105 2.000",
+	  "a) 212 = % 7.250 \n 755 3.000 \n 105 4.250",
+	  "b) 212 = % 5.000 \n 755 3.000 \n 105 2.000",
 	  "c) 212 = 755 7.250",
-	  "d) % = 212 7.250 <br> 105 3.000 <br> 655 4.250"
+	  "d) % = 212 7.250 \n 105 3.000 \n 655 4.250"
     ],
     "answer": "d",
     "category": "CONTABILITATE FINANCIARA"
